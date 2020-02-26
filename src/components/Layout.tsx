@@ -1,23 +1,7 @@
 import React from 'react';
-import {
-  theme,
-  ThemeProvider,
-  CSSReset,
-  Flex,
-  Box,
-  Heading
-} from '@chakra-ui/core';
+import { Flex, Box, Heading } from '@chakra-ui/core';
 
-const customTheme = {
-  ...theme,
-  fonts: {
-    ...theme.fonts,
-    heading: '"Avenir Next", sans-serif',
-    body:
-      "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;",
-    mono: "source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace"
-  }
-};
+import Theme from './Theme';
 
 type Props = {
   children: React.ReactNode;
@@ -25,8 +9,7 @@ type Props = {
 
 function Layout({ children }: Props) {
   return (
-    <ThemeProvider theme={customTheme}>
-      <CSSReset />
+    <Theme>
       <Box bg='gray.50' minH='100vh' pt={16}>
         <Flex
           justify='center'
@@ -43,7 +26,7 @@ function Layout({ children }: Props) {
         </Flex>
         <Box as='main'>{children}</Box>
       </Box>
-    </ThemeProvider>
+    </Theme>
   );
 }
 
