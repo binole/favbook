@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Homepage Default 1`] = `
+<div
+  className="css-16emyku"
+>
+  <div
+    className="css-139ela"
+  >
+    <a
+      className="css-1nfng10"
+    >
+      favbook
+    </a>
+  </div>
+  <main
+    className="css-0"
+  >
+    <h1
+      className="css-1ggh9pt"
+    >
+      Home
+    </h1>
+    <p
+      className="css-1ss3w6c"
+    >
+      Welcome to favbook
+    </p>
+  </main>
+</div>
+`;
