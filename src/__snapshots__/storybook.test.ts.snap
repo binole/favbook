@@ -8,11 +8,11 @@ exports[`Storyshots BookItem Default 1`] = `
     className="css-k008qs"
   >
     <div
-      className="css-1dzdnro"
+      className="css-1coa9a2"
     >
       <img
         alt=""
-        className="css-1ncl0du"
+        className="css-17eao0m"
       />
     </div>
     <div
@@ -21,7 +21,13 @@ exports[`Storyshots BookItem Default 1`] = `
       <h3
         className="css-1lf0679"
       >
-        Learning React: Functional Web Development with React and Redux
+        Learning React
+        : 
+        <p
+          className="css-a1igtn"
+        >
+          Functional Web Development with React and Redux
+        </p>
       </h3>
       <p
         className="css-1u0iejk"
@@ -58,16 +64,8 @@ exports[`Storyshots BookItem Loading 1`] = `
     className="css-k008qs"
   >
     <div
-      className="css-1dzdnro"
-    >
-      <div
-        h="full"
-        left={0}
-        pos="absolute"
-        top={0}
-        w="full"
-      />
-    </div>
+      className="css-1coa9a2"
+    />
     <div
       className="css-6c8cje"
     >
@@ -83,6 +81,570 @@ exports[`Storyshots BookItem Loading 1`] = `
     </div>
   </div>
 </div>
+`;
+
+exports[`Storyshots BookList Default 1`] = `
+<ul
+  className="css-19ndbdu"
+>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            Learning React
+            : 
+            <p
+              className="css-a1igtn"
+            >
+              Functional Web Development with React and Redux
+            </p>
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Alex Banks, Eve Porcello
+          </p>
+          <p
+            className="css-1ozr1hq"
+          >
+            <svg
+              className="css-101jr9b"
+              focusable={false}
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23.555,8.729a1.505,1.505,0,0,0-1.406-.98H16.062a.5.5,0,0,1-.472-.334L13.405,1.222a1.5,1.5,0,0,0-2.81,0l-.005.016L8.41,7.415a.5.5,0,0,1-.471.334H1.85A1.5,1.5,0,0,0,.887,10.4l5.184,4.3a.5.5,0,0,1,.155.543L4.048,21.774a1.5,1.5,0,0,0,2.31,1.684l5.346-3.92a.5.5,0,0,1,.591,0l5.344,3.919a1.5,1.5,0,0,0,2.312-1.683l-2.178-6.535a.5.5,0,0,1,.155-.543l5.194-4.306A1.5,1.5,0,0,0,23.555,8.729Z"
+                fill="currentColor"
+              />
+            </svg>
+             
+            5.00
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            Mastering React
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Adam Horton, Ryan Vice
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            React.js Essentials
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Artemij Fedosejev
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            Mastering React Native
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Eric Masiello, Jacob Friedmann
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            Introduction to React
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Cory Gackenheimer
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            React Projects
+            : 
+            <p
+              className="css-a1igtn"
+            >
+              Build 12 real-world applications from scratch using React, React Native, and React 360
+            </p>
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Roy Derks
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            React
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Jacob Dotson
+          </p>
+          <p
+            className="css-1ozr1hq"
+          >
+            <svg
+              className="css-101jr9b"
+              focusable={false}
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23.555,8.729a1.505,1.505,0,0,0-1.406-.98H16.062a.5.5,0,0,1-.472-.334L13.405,1.222a1.5,1.5,0,0,0-2.81,0l-.005.016L8.41,7.415a.5.5,0,0,1-.471.334H1.85A1.5,1.5,0,0,0,.887,10.4l5.184,4.3a.5.5,0,0,1,.155.543L4.048,21.774a1.5,1.5,0,0,0,2.31,1.684l5.346-3.92a.5.5,0,0,1,.591,0l5.344,3.919a1.5,1.5,0,0,0,2.312-1.683l-2.178-6.535a.5.5,0,0,1,.155-.543l5.194-4.306A1.5,1.5,0,0,0,23.555,8.729Z"
+                fill="currentColor"
+              />
+            </svg>
+             
+            5.00
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            REACT
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Tobi Nifesi
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            Designing Applications with Spring Boot 2.2 and React JS
+            : 
+            <p
+              className="css-a1igtn"
+            >
+              Step-by-step guide to design and develop intuitive full stack web applications
+            </p>
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Dinesh Rajput 
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            React Native for Mobile Development
+            : 
+            <p
+              className="css-a1igtn"
+            >
+              Harness the Power of React Native to Create Stunning iOS and Android Applications
+            </p>
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Akshat Paul, Abhishek Nalwaya
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            The Must-React System
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Kraig Kleeman
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        >
+          <img
+            alt=""
+            className="css-17eao0m"
+          />
+        </div>
+        <div
+          className="css-6c8cje"
+        >
+          <h3
+            className="css-1lf0679"
+          >
+            Think, Act, Stay Safe with the R.E.A.C.T Approach to Self Defence
+          </h3>
+          <p
+            className="css-1u0iejk"
+          >
+            Stephen W. Collins
+          </p>
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots BookList Loading 1`] = `
+<ul
+  className="css-19ndbdu"
+>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        />
+        <div
+          className="css-6c8cje"
+        >
+          <div
+            className="css-h3yrdz"
+          />
+          <div
+            className="css-1r43fex"
+          />
+          <div
+            className="css-1r43fex"
+          />
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        />
+        <div
+          className="css-6c8cje"
+        >
+          <div
+            className="css-h3yrdz"
+          />
+          <div
+            className="css-1r43fex"
+          />
+          <div
+            className="css-1r43fex"
+          />
+        </div>
+      </div>
+    </div>
+  </li>
+  <li
+    className="css-992tcj"
+  >
+    <div
+      className="css-q5fqw0"
+    >
+      <div
+        className="css-k008qs"
+      >
+        <div
+          className="css-1coa9a2"
+        />
+        <div
+          className="css-6c8cje"
+        >
+          <div
+            className="css-h3yrdz"
+          />
+          <div
+            className="css-1r43fex"
+          />
+          <div
+            className="css-1r43fex"
+          />
+        </div>
+      </div>
+    </div>
+  </li>
+</ul>
 `;
 
 exports[`Storyshots Homepage Default 1`] = `
