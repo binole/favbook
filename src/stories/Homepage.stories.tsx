@@ -2,7 +2,7 @@ import React from 'react';
 import App from '../App';
 
 export default {
-  title: 'Homepage',
+  title: 'Pages/Home',
   component: App
 };
 

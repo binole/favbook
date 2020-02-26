@@ -1,9 +1,12 @@
 import React from 'react';
-import { Flex } from '@chakra-ui/core';
-import SearchForm from './SearchForm';
-import Logo from './Logo';
+import { Flex, Box } from '@chakra-ui/core';
+import { Logo } from './Logo';
 
-export default function Header() {
+type Props = {
+  search: React.ReactNode;
+};
+
+export function Header({ search }: Props) {
   return (
     <Flex
       align='center'
@@ -11,13 +14,15 @@ export default function Header() {
       px={{ base: 4, md: 6 }}
       borderBottom='1px'
       borderColor='gray.100'
-      bg='white'
+      bg='rgba(255,255,255,0.96)'
       pos='fixed'
       w='100%'
       top={0}
     >
       <Logo />
-      <SearchForm marginLeft={6} w='100%' />
+      <Box marginLeft={6} w='100%' maxW={720}>
+        {search}
+      </Box>
     </Flex>
   );
 }

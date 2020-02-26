@@ -1,13 +1,13 @@
 import React from 'react';
-import BookItem from './BookItem';
-import { Volume } from '../models/Volume';
+import { BookItem } from './BookItem';
+import { Volume } from '../domain/Volume';
 import { List, ListItem } from '@chakra-ui/core';
 
 type Props = {
   books?: Volume[];
 };
 
-export default function BookList({ books }: Props) {
+export function BookList({ books }: Props) {
   return (
     <List>
       {books

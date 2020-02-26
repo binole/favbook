@@ -11,7 +11,7 @@ type Props = {
   onSearch?: (term: string) => void;
 };
 
-export default function SearchForm({
+export function SearchForm({
   onSearch,
   ...rest
 }: Props & Partial<InputGroupProps>) {

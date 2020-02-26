@@ -1,5 +1,5 @@
 import React from 'react';
-import BookList from '../components/BookList';
+import { BookList } from '../components/BookList';
 import books from '../__fixtures__/books.json';
 
 export default {

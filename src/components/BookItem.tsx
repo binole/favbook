@@ -1,13 +1,13 @@
 import React from 'react';
-import { Box, Image, Flex, Heading, Text, Icon } from '@chakra-ui/core';
-import { Book } from '../models/Book';
-import Skeleton from './Skeleton';
+import { Box, Image, Flex, Heading, Text, Icon, Stack } from '@chakra-ui/core';
+import { Book } from '../domain/Book';
+import { Skeleton } from './Skeleton';
 
 type Props = {
   book?: Book;
 };
 
-export default function BookItem({ book }: Props) {
+export function BookItem({ book }: Props) {
   return (
     <Box p={4}>
       <Flex>
@@ -41,14 +41,20 @@ export default function BookItem({ book }: Props) {
                   </>
                 )}
               </Heading>
-              <Text fontSize='sm' color='gray.600'>
+              <Text fontSize='sm' color='gray.500'>
                 {book?.authors?.join(', ')}
               </Text>
-              {book?.averageRating && (
-                <Text fontSize='xs' fontWeight='bold' color='gray.700' my={1}>
-                  <Icon name='star' color='yellow.400' />{' '}
-                  {book?.averageRating?.toFixed(2)}
-                </Text>
+              {book?.averageRating && book?.ratingsCount && (
+                <Stack isInline align='center' spacing={1}>
+                  <Icon name='star' color='yellow.400' size='12px' />
+                  <Text fontSize='xs' fontWeight='bold' color='gray.700' my={1}>
+                    {book?.averageRating?.toFixed(2)}
+                  </Text>
+                  <Text
+                    fontSize='xs'
+                    color='gray.400'
+                  >{`(${book?.ratingsCount} ratings)`}</Text>
+                </Stack>
               )}
             </>
           ) : (

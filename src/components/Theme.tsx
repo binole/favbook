@@ -16,7 +16,7 @@ type Props = {
   children: React.ReactNode;
 };
 
-function Theme({ children }: Props) {
+export function Theme({ children }: Props) {
   return (
     <ThemeProvider theme={customTheme}>
       <CSSReset />
@@ -24,5 +24,3 @@ function Theme({ children }: Props) {
     </ThemeProvider>
   );
 }
-
-export default Theme;
