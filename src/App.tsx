@@ -1,16 +1,14 @@
 import React from 'react';
+import Layout from './components/Layout';
+import { Heading, Text } from '@chakra-ui/core';
 
-function App() {
+export default function App() {
   return (
-    <div>
-      <header>
-        <a href='/'>favbook</a>
-      </header>
-      <main>
-        <h1>Home</h1>
-      </main>
-    </div>
+    <Layout>
+      <Heading as='h1' textAlign='center' color='teal.900'>
+        Home
+      </Heading>
+      <Text textAlign='center'>Welcome to favbook</Text>
+    </Layout>
   );
 }
-
-export default App;
