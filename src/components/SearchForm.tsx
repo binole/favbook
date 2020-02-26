@@ -3,14 +3,18 @@ import {
   InputGroup,
   Input,
   InputRightElement,
-  IconButton
+  IconButton,
+  InputGroupProps
 } from '@chakra-ui/core';
 
 type Props = {
-  onSearch: (term: string) => void;
+  onSearch?: (term: string) => void;
 };
 
-export const SearchForm = ({ onSearch }: Props) => {
+export default function SearchForm({
+  onSearch,
+  ...rest
+}: Props & Partial<InputGroupProps>) {
   const [term, setTerm] = React.useState('');
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
@@ -20,13 +24,13 @@ export const SearchForm = ({ onSearch }: Props) => {
   const handleSubmit = (event: React.FormEvent) => {
     event.preventDefault();
 
-    onSearch(term.trim());
+    onSearch && onSearch(term.trim());
   };
 
   return (
-    <InputGroup as='form' onSubmit={handleSubmit}>
+    <InputGroup as='form' onSubmit={handleSubmit} {...rest}>
       <Input
-        placeholder='Search books'
+        placeholder='Search'
         variant='filled'
         borderRadius={24}
         onChange={handleChange}
@@ -42,4 +46,4 @@ export const SearchForm = ({ onSearch }: Props) => {
       </InputRightElement>
     </InputGroup>
   );
-};
+}

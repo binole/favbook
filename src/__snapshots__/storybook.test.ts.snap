@@ -5,13 +5,45 @@ exports[`Storyshots Homepage Default 1`] = `
   className="css-16emyku"
 >
   <div
-    className="css-139ela"
+    className="css-13bb0bn"
   >
     <a
-      className="css-1nfng10"
+      className="css-1jcjtoe"
     >
       favbook
     </a>
+    <form
+      className="css-1dj7854"
+      onSubmit={[Function]}
+    >
+      <input
+        className="css-1ohh5ys"
+        onChange={[Function]}
+        placeholder="Search"
+      />
+      <div
+        className="css-mczi6p"
+      >
+        <button
+          aria-label="Search database"
+          className="css-12ol5rm"
+          type="submit"
+        >
+          <svg
+            aria-hidden={true}
+            className="css-1im46kq"
+            focusable="false"
+            role="presentation"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M23.384,21.619,16.855,15.09a9.284,9.284,0,1,0-1.768,1.768l6.529,6.529a1.266,1.266,0,0,0,1.768,0A1.251,1.251,0,0,0,23.384,21.619ZM2.75,9.5a6.75,6.75,0,1,1,6.75,6.75A6.758,6.758,0,0,1,2.75,9.5Z"
+              fill="currentColor"
+            />
+          </svg>
+        </button>
+      </div>
+    </form>
   </div>
   <main
     className="css-0"
@@ -38,7 +70,7 @@ exports[`Storyshots SearchForm Default 1`] = `
   <input
     className="css-1ohh5ys"
     onChange={[Function]}
-    placeholder="Search books"
+    placeholder="Search"
   />
   <div
     className="css-mczi6p"
