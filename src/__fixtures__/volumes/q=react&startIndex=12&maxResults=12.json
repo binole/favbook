@@ -1,0 +1,998 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 424,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "m86PDwAAQBAJ",
+      "etag": "7eoXVJ7Y65I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m86PDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React Material-UI Cookbook",
+        "subtitle": "Build captivating user experiences using React and Material-UI",
+        "authors": [
+          "Adam Boduch"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-03-30",
+        "description": "Build modern day application by implementing Material Design principles in React applications using Material-UI. Key Features Grasp the needs React components for UI elements Master the style and theme of the tools to go along with these components Get to grips with all the React best practices to build a modern application Book Description Material-UI is a component library for rendering UI elements, using modern best practices from React and Material Design. This book will show you how you can create impressive and captivating modern day web apps by implementing Material Design considerations. The primary objective of this book is to help you use several Material-UI components to build larger UI functionality. We will also focus on React best practices in conjunction with Material-UI components – using state, context, and other new React 16.8 features properly. This book will start with layout and navigation and then dive into presenting the information with Material-UI components. It will then talk about the different components for user interactions. By the end of this book, you will know how to improve the look and feel of your applications using Material-UI components. What you will learn Learn to build the overall structure and navigation for your Material-UI app Learn to present simple and complex information in a variety of ways Build interactive and intuitive controls Design portable themes and styles for all of your Material-UI apps Group content into sections using tabs and expansion panels Learn how to design a general page layout with Material-UI grids Use lists for complex data, and cards for detailed information Who this book is for They are JavaScript developers who have some basic knowledge of React and would want to implement Material Design principles in React applications using Material-UI. The reader wants to build a user interface using React components but doesn’t want to invent their own style or UX framework.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789610222"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789610222"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 534,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m86PDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m86PDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=m86PDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=m86PDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=m86PDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 23.09,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.16,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=m86PDwAAQBAJ&rdid=book-m86PDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 23090000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16160000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m86PDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You will also find this book helpful if you are a developer who wants to build a UI using React components without having to build your own UX framework."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ol2pBAAAQBAJ",
+      "etag": "MM3TBRVOtLo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ol2pBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Act Or React",
+        "subtitle": "The Decision is Ours",
+        "authors": [
+          "Caz McCaslin"
+        ],
+        "publisher": "B&H Publishing Group",
+        "publishedDate": "2014-07-01",
+        "description": "Have you ever been moved to act? Have you ever taken a leap of faith, unsure where you would land? Maybe you weren’t completely ready to quit your job and go out on your own. Maybe you didn’t know how your co-workers would respond when you told them you were going to Uganda on a two-week mission trip. We have all stepped out on faith one time or another, in both big and small ways. But have you ever wondered why? What causes us to speak up when there is silence, what makes us finally put the for-sale sign in our front yard? What if we could pinpoint that moment in time, and figure out what moves people to act? Act or React will take us on a journey of discovery to find out how we go from standing on the sidelines to actually getting inthe game of life and playing with purpose. Author Caz McCaslin, founder and president of Upward Sports, shares his own story to help readers examine the ongoing process which moves us from thinking about doing something to actually doing something. Concepts like Awareness, Passion, Vision, Readiness, and Intentionality, will bring to light what we have to do to live others-focused. Do we react? Do we act? Or do we do both?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781433606946"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1433606941"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Religion"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ol2pBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ol2pBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=ol2pBAAAQBAJ&pg=PA90&dq=react&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=ol2pBAAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Act_Or_React.html?hl=&id=ol2pBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ol2pBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... and I feel a little strange about this but I just wanted to tell you that I&#39;ve been <br>\ndriving this couple around for the last three weeks. They&#39;re looking for a home. I&#39;<br>\nve shown them everything in Spartanburg and they keep ACT OR <b>REACT</b> 90."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mj-eAgAAQBAJ",
+      "etag": "8NI/B50oojw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mj-eAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Time to React",
+        "subtitle": "The Efficiency of International Organizations in Crisis Response",
+        "authors": [
+          "Heidi Hardt"
+        ],
+        "publisher": "Oxford University Press",
+        "publishedDate": "2014-01-03",
+        "description": "In conflict-affected regions, delays in international response can have life or death consequences. The speed with which international organizations react to crises affects the prospects for communities to re-establish peace. Why then do some international organizations take longer than others to answer calls for intervention? To answer this question and explore options for reform, Time to React builds on contemporary scholarship with original data on response rates and interview evidence from 50 ambassadors across four leading organizations (AU, EU, OAS and OSCE). The explanation for variation in speed ultimately lies in core differences in institutional cultures across organizations. Although wealth and capabilities can strengthen a peace operation, it is the unspoken rules and social networks of peace and security committees at these organizations that dictate the pace with which an operation is established. This book offers a first analysis of the critical importance of and conditions shaping timeliness of crisis response by international organizations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780199337125"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0199337128"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mj-eAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mj-eAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=mj-eAgAAQBAJ&pg=PA197&dq=react&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=mj-eAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=mj-eAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.55,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 19.28,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=mj-eAgAAQBAJ&rdid=book-mj-eAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27550000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 19280000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Time_to_React-sample-pdf.acsm?id=mj-eAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mj-eAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When minimum conditions of access to capabilities are met, the effectiveness of a <br>\nmultilateral intervention can depend on how quickly an international organization <br>\nmeets, makes a decision and <b>reacts</b> to the demands of those in need."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Rt18DwAAQBAJ",
+      "etag": "e5xmnd8wuQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Rt18DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn React with TypeScript 3",
+        "subtitle": "Beginner's guide to modern React web development with TypeScript 3",
+        "authors": [
+          "Carl Rippon"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-11-29",
+        "description": "Start developing modern day component based web apps using React 16, Redux and TypeScript 3 with this easy to follow guide filled with practical examples. Key Features Learn the latest and core features of React such as components, React Router, and suspense Dive into TypeScript 3 and it`s core components such as interfaces, types aliases, tuples, generics and much more. Build small-to-large scale single page applications with React, Redux, GraphQL and TypeScript Book Description React today is one of the most preferred choices for frontend development. Using React with TypeScript enhances development experience and offers a powerful combination to develop high performing web apps. In this book, you’ll learn how to create well structured and reusable react components that are easy to read and maintain by leveraging modern web development techniques. We will start with learning core TypeScript programming concepts before moving on to building reusable React components. You'll learn how to ensure all your components are type-safe by leveraging TypeScript's capabilities, including the latest on Project references, Tuples in rest parameters, and much more. You'll then be introduced to core features of React such as React Router, managing state with Redux and applying logic in lifecycle methods. Further on, you'll discover the latest features of React such as hooks and suspense which will enable you to create powerful function-based components. You'll get to grips with GraphQL web API using Apollo client to make your app more interactive. Finally, you'll learn how to write robust unit tests for React components using Jest. By the end of the book, you'll be well versed with all you need to develop fully featured web apps with React and TypeScript. What you will learn Gain a first-hand experience of TypeScript and its productivity features Transpile your TypeScript code into JavaScript for it to run in a browser Learn relevant advanced types in TypeScript for creating strongly typed and reusable components. Create stateful function-based components that handle lifecycle events using hooks Get to know what GraphQL is and how to work with it by executing basic queries to get familiar with the syntax Become confident in getting good unit testing coverage on your components using Jest Who this book is for The ideal target audience for this book are web developers who want to get started with creating modern day web apps with React and TypeScript.You are expected to have a basic understanding of JavaScript and HTML programming. No prior knowledge of TypeScript and React is needed.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789618129"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789618126"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 502,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Rt18DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Rt18DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=Rt18DwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Rt18DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Rt18DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.19,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 24.63,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Rt18DwAAQBAJ&rdid=book-Rt18DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35190000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 24630000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Rt18DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this book, you’ll learn how to create well structured and reusable react components that are easy to read and maintain by leveraging modern web development techniques."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f_zTEGBv2uAC",
+      "etag": "FEnfB0Gn4l8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f_zTEGBv2uAC",
+      "volumeInfo": {
+        "title": "How NGOs React",
+        "subtitle": "Globalization and Education Reform in the Caucasus, Central Asia and Mongolia",
+        "authors": [
+          "Iveta Silova",
+          "Gita Steiner-Khamsi"
+        ],
+        "publisher": "Kumarian Press",
+        "publishedDate": "2008",
+        "description": "* Critical retrospective on the first decades of the transition from planned to free-market economy in Central Asia * Contributions from both Eastern and Western scholars * Includes both theoretical NGO research and practical examples taken from experience During the important, early years of transition for the post-socialist countries in the Caucasus, Central Asia, and Mongolia, the Open Society Institute/Soros Foundation was arguably the largest and most influential network in the region. How NGOs React follows the Soros Foundation's educational reform programs there and raises larger questions about the role of NGOs in a centralist government, relationships NGOs have with international donors and development banks, and how projects are adopted and interpreted in different contexts. Case studies (authored by former or current educational experts of the Soros Network based in Armenia, Azerbaijan, Georgia, Kazakhstan, Kyrgyzstan, Mongolia, Tajikistan, Turkmenistan, and Uzbekistan) look at the impact of capacity-building programs, the professional development of teachers, school administrators, government officials, textbook authors, publishers, teacher educators, and university lecturers, among others. Soros's particular focus on capacity-building and how this strategy was adopted across a wide area reveals much that will instruct NGOs working in international education policy. The unique combination of perspectives from Western as well as Eastern scholars based in the region makes this collection an essential retrospective on key processes involved in the transformation of closed societies into open and free ones.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781565492578"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1565492579"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 303,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f_zTEGBv2uAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f_zTEGBv2uAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=f_zTEGBv2uAC&pg=PA43&dq=react&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=f_zTEGBv2uAC&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_NGOs_React.html?hl=&id=f_zTEGBv2uAC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/How_NGOs_React-sample-epub.acsm?id=f_zTEGBv2uAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f_zTEGBv2uAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MZRRDwAAQBAJ",
+      "etag": "Xt0IRDFFJqI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MZRRDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React: Cross-Platform Application Development with React Native",
+        "subtitle": "Build 4 real-world apps with React Native",
+        "authors": [
+          "Emilio Rodriguez Martinez"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-03-13",
+        "description": "Harness the power of React Native to build 4 real-world apps Key Features Build quirky and fun projects from scratch and become efficient with React Native Learn to build professional Android and iOS applications using your existing JavaScript knowledge Use isomorphic principles to build mobile apps that offer a native user experience Embedded with assessments that will help you revise the concepts you have learned in this course Book Description React Native helps web and mobile developers to build cross-platform apps that perform at the same level as any other natively developed app. The range of apps that can be built using this library is huge. From e-commerce to games, React Native is a good fit for any mobile project due to its flexibility and extendable nature. This project-based book consists of four standalone projects. Each project will help you gain a sound understanding of the framework and build mobile apps with native user experience. Starting with a simple standalone car booking app, you will progressively move on to building advanced apps by adding connectivity with external APIs, using native features, such as the camera or microphone, in the mobile device, integrating with state management libraries such as Redux or MobX, or leveraging React Native’s performance by building a full-featured game. This book is ideal for developers who want to build amazing cross-platform apps with React Native. This book is embedded with useful assessments that will help you revise the concepts you have learned in this book. What you will learn Structure React Native projects to ease maintenance and extensibility Optimize a project to speed up development Use external modules to speed up the development and maintenance of your projects Explore the different UI and code patterns to be used for iOS and Android Get to know the best practices when building apps in React Native Who this book is for This book is for developers who want to build amazing cross-platform apps with React Native.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789139600"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789139600"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MZRRDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MZRRDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=MZRRDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MZRRDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MZRRDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.69,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 20.78,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MZRRDwAAQBAJ&rdid=book-MZRRDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29690000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 20780000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MZRRDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book is ideal for developers who want to build amazing cross-platform apps with React Native. This book is embedded with useful assessments that will help you revise the concepts you have learned in this book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qSsJAAAAQBAJ",
+      "etag": "PsuK1unt/N4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qSsJAAAAQBAJ",
+      "volumeInfo": {
+        "title": "After the Diagnosis: How Patients React and How to Help Them Cope",
+        "authors": [
+          "Gary McClain",
+          "Michelle Buchman"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2012-12-19",
+        "description": "AFTER THE DIAGNOSIS: HOW PATIENTS REACT AND HOW TO HELP THEM COPE, 1E is the first book to help your students understand how newly diagnosed patients react emotionally. It also shows them how to help their patients harness both emotional and rational strengths as they communicate with healthcare professionals, gather information, evaluate treatment options, make informed treatment decisions, and manage their condition. AFTER THE DIAGNOSIS: HOW PATIENTS REACT AND HOW TO HELP THEM COPE, 1E is written for healthcare professionals - nurses, physician's assistants, nursing assistants, anyone in direct contact with patients and their families - and intended for use in all health science educational programs. This book is invaluable for continuing medical education courses and for continuing education seminars for professionals working with newly-diagnosed patients and can also be used in training programs for counselors, social workers, and other mental health professionals. AFTER THE DIAGNOSIS: HOW PATIENTS REACT AND HOW TO HELP THEM COPE, 1E provides your students with practical, realistic guidelines and is richly illustrated with real-life examples and examples of dialogue, supplemented by exercises and questions. Important Notice: Media content referenced within the product description or the product text may not be available in the ebook version.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781133417880"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1133417884"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Medical"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qSsJAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qSsJAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=qSsJAAAAQBAJ&pg=PA311&dq=react&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=qSsJAAAAQBAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/After_the_Diagnosis_How_Patients_React_a.html?hl=&id=qSsJAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qSsJAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Patients newly diagnosed with terminal diagnoses have emotions, beliefs, and <br>\nexpe— riences unique to them that influence how they <b>react</b> to the news that they <br>\nwill not survive. The initial shock of a diagnosis may be intensified when the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AK5MySZbbuMC",
+      "etag": "OteDCSEzW3U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AK5MySZbbuMC",
+      "volumeInfo": {
+        "title": "NETWORK SECURITY TRACEBACK ATTACK AND REACT IN THE UNITED STATES DEPARTMENT OF DEFENSE NETWORK",
+        "authors": [
+          "EDMOND K. MACHIE"
+        ],
+        "publisher": "Trafford Publishing",
+        "publishedDate": "2013-03-29",
+        "description": "Network Security and how to traceback, attack and react to network vulnerability and threats. Concentration on traceback techniques for attacks launched with single packets involving encrypted payloads, chaff and other obfuscation techniques. Due to the development of various tools and techniques to increase the source of network attacks, our interest will include network forensics, with the goal of identifying the specific host which launched the attack and cause denial of services (DoS). Also we will include tracing an attack that would compromise the confidentiality and integrity of information on the Intelligence Community (IC) network, which includes the NIPRNET, SIPRNET, JWICS, and IC enclaves. Deliverables will be technical reports, software, demonstrations, and results of experiments, which will provide evidence and metrics. The emergence of hybrid worm attacks utilizing multiple exploits to breach security infrastructures has forced enterprises to look into solutions that can defend their critical assets against constantly shifting threats.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781466985742"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1466985747"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 198,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AK5MySZbbuMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AK5MySZbbuMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=AK5MySZbbuMC&pg=PR5&dq=react&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AK5MySZbbuMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AK5MySZbbuMC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 29.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 20.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AK5MySZbbuMC&rdid=book-AK5MySZbbuMC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 29990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 20990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/NETWORK_SECURITY_TRACEBACK_ATTACK_AND_RE-sample-epub.acsm?id=AK5MySZbbuMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/NETWORK_SECURITY_TRACEBACK_ATTACK_AND_RE-sample-pdf.acsm?id=AK5MySZbbuMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AK5MySZbbuMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "dedicatioN In Memory of my mother, Kameni Francisca-Edmond My uncle, Doctor <br>\nJean-Bosco Tchiemessom My grandfather, Edmond Kameni iNtroductioN <br>\nNetwork Security and how to traceback, attack and <b>react</b> Dedication."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xpcZygEACAAJ",
+      "etag": "aLK2ncHvBuw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xpcZygEACAAJ",
+      "volumeInfo": {
+        "title": "React.js Essential Training",
+        "publishedDate": "2018",
+        "description": "React is a great choice for dynamic, data-driven user experiences. Learn how to create browser-based apps and websites with the component-based React.js library.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1116213085"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=xpcZygEACAAJ&dq=react&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=xpcZygEACAAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_js_Essential_Training.html?hl=&id=xpcZygEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xpcZygEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "React is a great choice for dynamic, data-driven user experiences. Learn how to create browser-based apps and websites with the component-based React.js library."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R8ic4XpdSdUC",
+      "etag": "4ynCNbfLEbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R8ic4XpdSdUC",
+      "volumeInfo": {
+        "title": "How Commodity Price Curves and Inventories React to a Short-Run Scarcity Shock",
+        "authors": [
+          "Ms. Nese Erbil",
+          "Shaun K. Roache"
+        ],
+        "publisher": "International Monetary Fund",
+        "publishedDate": "2010-09-01",
+        "description": "How does a commodity market adjust to a temporary scarcity shock which causes a shift in the slope of the futures price curve? We find long-run relationships between spot and futures prices, inventories and interest rates, which means that such shocks lead to an adjustment back towards a stable equilibrium. We find evidence that the adjustment is somewhat consistent with well-known theoretical models, such as Pindyck (2001); in other words, spot prices rise and then fall, while inventories are used to absorb the shock. Importantly, the pace and nature of the adjustment depends upon whether inventories were initially high or low, which introduces significant nonlinearities into the adjustment process.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781455209804"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1455209805"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 35,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.0.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R8ic4XpdSdUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R8ic4XpdSdUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=R8ic4XpdSdUC&pg=PA20&dq=react&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=R8ic4XpdSdUC&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_Commodity_Price_Curves_and_Inventori.html?hl=&id=R8ic4XpdSdUC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/How_Commodity_Price_Curves_and_Inventori-sample-pdf.acsm?id=R8ic4XpdSdUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R8ic4XpdSdUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u1CsDwAAQBAJ",
+      "etag": "+gvMVwbwkNw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u1CsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React JS Fundamental",
+        "subtitle": "Learn fundamental React JS Single Page Application with Fetching Data from API and UseContext",
+        "authors": [
+          "Onesinus SPT"
+        ],
+        "publisher": "Onesinus Saut Parulian",
+        "publishedDate": "2019-08-31",
+        "description": "In this ebooks we will learn basic Single Page Application with React JS 1. How to Install React JS with create-react-app 2. Fetching data from API 3. Using Global Context with useContext 4. Unit Testing with JEST [Ongoing]",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 42,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u1CsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u1CsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.fi/books?id=u1CsDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u1CsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u1CsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u1CsDwAAQBAJ&rdid=book-u1CsDwAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/React_JS_Fundamental-sample-pdf.acsm?id=u1CsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u1CsDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this ebooks we will learn basic Single Page Application with React JS 1. How to Install React JS with create-react-app 2. Fetching data from API 3. Using Global Context with useContext 4. Unit Testing with JEST [Ongoing]"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SM2NDwAAQBAJ",
+      "etag": "4bXNQaje/YU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SM2NDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pro React 16",
+        "authors": [
+          "Adam Freeman"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-03-19",
+        "description": "Use the enormously popular React framework to build dynamic JavaScript applications that take advantage of the capabilities of modern browsers and devices. You will learn how React brings the power of strong architecture and responsive data to the client, providing the foundation for complex and rich user interfaces. Best-selling author Adam Freeman explains how to get the most from React. He begins by describing the React architecture and the benefits it offers and then shows you how to use React and its associated tools and libraries in your projects, starting from the nuts and bolts and building up to the most advanced and sophisticated features, going in-depth to give you the knowledge you need. Each topic is presented clearly and concisely. Chapters include common problems and how to avoid them. What You’ll Learn Gain a solid understanding of the React design Create rich and dynamic web app clients using React Create data stores using Redux Consume data using REST and GraphQL Test your React projects Who This Book Is For JavaScript developers who want to use React to create dynamic client-side applications",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484244517"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484244516"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 745,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SM2NDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SM2NDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=SM2NDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SM2NDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SM2NDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 48.31,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 33.82,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=SM2NDwAAQBAJ&rdid=book-SM2NDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 48310000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 33820000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Pro_React_16-sample-epub.acsm?id=SM2NDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Pro_React_16-sample-pdf.acsm?id=SM2NDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SM2NDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What You’ll Learn Gain a solid understanding of the React design Create rich and dynamic web app clients using React Create data stores using Redux Consume data using REST and GraphQL Test your React projects Who This Book Is For ..."
+      }
+    }
+  ]
+}

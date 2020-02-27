@@ -1,0 +1,1025 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 601,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "Tkm4DwAAQBAJ",
+      "etag": "IDU+eQ0KBJc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tkm4DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn React Hooks",
+        "subtitle": "Build and refactor modern React.js applications using Hooks",
+        "authors": [
+          "Daniel Bugl"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-10-18",
+        "description": "Create large-scale web applications with code that is extensible and easy to understand using React Hooks Key Features Explore effective strategies for migrating your state management from Redux and MobX to React Hooks Integrate Hooks with React features such as Context and Suspense to add advanced functionality to your web apps Create complex applications by combining multiple hooks Book Description React Hooks revolutionize how you manage state and effects in your web applications. They enable you to build simple and concise React.js applications, along with helping you avoid using wrapper components in your applications, making it easy to refactor code. This React book starts by introducing you to React Hooks. You will then get to grips with building a complex UI in React while keeping the code simple and extensible. Next, you will quickly move on to building your first applications with React Hooks. In the next few chapters, the book delves into various Hooks, including the State and Effect Hooks. After covering State Hooks and understanding how to use them, you will focus on the capabilities of Effect Hooks for adding advanced functionality to React apps. You will later explore the Suspense and Context APIs and how they can be used with Hooks. Toward the concluding chapters, you will learn how to integrate Redux and MobX with React Hooks. Finally, the book will help you develop the skill of migrating your existing React class components, and Redux and MobX web applications to Hooks. By the end of this book, you will be well-versed in building your own custom Hooks and effectively refactoring your React applications. What you will learn Understand the fundamentals of React Hooks and how they modernize state management in React apps Build your own custom Hooks and learn how to test them Use community Hooks for implementing responsive design and more Learn the limitations of Hooks and what you should and shouldn’t use them for Get to grips with implementing React context using Hooks Refactor your React-based web application, replacing existing React class components with Hooks Use state management solutions such as Redux and MobX with React Hooks Who this book is for This book is for React developers who want to learn how to build applications with Hooks. Developers who are looking to migrate to React for its advanced feature set and capabilities will also find the book useful.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838640514"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1838640517"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 426,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tkm4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tkm4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=Tkm4DwAAQBAJ&pg=PP1&dq=react&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Tkm4DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Tkm4DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 26.39,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 18.47,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Tkm4DwAAQBAJ&rdid=book-Tkm4DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 26390000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 18470000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tkm4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "By the end of this book, you will be well-versed in building your own custom Hooks and effectively refactoring your React applications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6tiFDwAAQBAJ",
+      "etag": "gWeivawSHzs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6tiFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React Native",
+        "subtitle": "Hybrid Mobile App Development",
+        "authors": [
+          "AMC College"
+        ],
+        "publisher": "Advanced Micro Systems Sdn Bhd",
+        "description": "This manual will covers Introduction To React Native, React Native Layout And Designs, Developing UI (User Interface), Animations and Application Deployment.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789672285953"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9672285957"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6tiFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6tiFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=6tiFDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6tiFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6tiFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.96,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2.46,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6tiFDwAAQBAJ&rdid=book-6tiFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2960000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2460000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/React_Native-sample-pdf.acsm?id=6tiFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6tiFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This manual will covers Introduction To React Native, React Native Layout And Designs, Developing UI (User Interface), Animations and Application Deployment."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oIx5DwAAQBAJ",
+      "etag": "L6ccRUvGlqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oIx5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Practical React Native",
+        "subtitle": "Build Two Full Projects and One Full Game using React Native",
+        "authors": [
+          "Frank Zammetti"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2018-11-12",
+        "description": "Discover how to use React Native in the real world, from scratch. This book shows you what React Native has to offer, where it came from, and where it’s going. You'll begin with a solid foundation of practical knowledge, and then build on it immediately by constructing three different apps. You'll learn how to use each feature of React Native by working on two full projects and one full game. These aren’t just simple React Native Hello World examples (although you’ll naturally start there!) but are apps that you can, if you so choose, install on your mobile devices and use for real. Throughout this book, you'll gain real-world familiarity with React Native as well as supporting components from Expo, NativeBase, React Navigation and the Redux and Lodash libraries. You'll also build server-side code for a mobile React Native app to talk to using the popular Node.js and Socket.io library, providing you a holistic view of things even beyond React Native. And, you'll see many helpful tips, tricks and gotchas to watch out for along the way! Practical React Native offers practical exercises that will give you a solid grasp of building apps with React Native, allowing you to springboard into creating more advanced apps on your own.Creating a game with React Native will allow you to see a whole other perspective on what React Native can do. What You'll Learn Master the basics of React Native Create a logically structured project Review interface elements, such as widgets, controls, and extensions Build layouts Work with Expo, an open source toolchain Who This book Is For The primary audience is mobile developers and anyone looking to build for multiple mobile platforms and trying to do so with a codebase that is largely the same across all. Readers will need a decent foundation, but not necessarily be experts in, HTML, CSS, and JavaScript, but I'll assume little beyond that.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484239391"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484239393"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oIx5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oIx5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=oIx5DwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oIx5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oIx5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 27.74,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 19.42,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oIx5DwAAQBAJ&rdid=book-oIx5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 27740000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 19420000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Practical_React_Native-sample-epub.acsm?id=oIx5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Practical_React_Native-sample-pdf.acsm?id=oIx5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oIx5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discover how to use React Native in the real world, from scratch. This book shows you what React Native has to offer, where it came from, and where it’s going."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OCHEnQAACAAJ",
+      "etag": "ztxmx/aKwi8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OCHEnQAACAAJ",
+      "volumeInfo": {
+        "title": "React: Up & Running",
+        "subtitle": "Building Web Applications",
+        "authors": [
+          "Stoyan Stefanov"
+        ],
+        "publishedDate": "2016-08-04",
+        "description": "Hit the ground running with React, the open-source technology from Facebook for building rich web applications fast. With this practical guide, Yahoo! web developer Stoyan Stefanov teaches you how to build components-React's basic building blocks-and organize them into maintainable, large-scale apps. If you're familiar with basic JavaScript syntax, you're ready to get started. Once you understand how React works, you'll build a complete custom Whinepad app that helps users rate wines and keep notes. You'll quickly learn why some developers consider React the key to the web app development puzzle. Set up React and write your first \"Hello world\" web app Create and use custom React components alongside generic DOM components Build a data table component that lets you edit, sort, search, and export its contents Use the JSX syntax extension as an alternative to function calls Set up a lean, low-level build process that helps you focus on React Build a complete custom app that lets you store data on the client Use ESLint, Flow, and Jest tools to check and test your code as your app evolves Manage communication between components with Flux",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1491931825"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781491931820"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OCHEnQAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OCHEnQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=OCHEnQAACAAJ&dq=react&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=OCHEnQAACAAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_Up_Running.html?hl=&id=OCHEnQAACAAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OCHEnQAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "With this practical guide, Yahoo! web developer Stoyan Stefanov teaches you how to build components--React&#39;s basic building blocks--and organize them into maintainable, large-scale apps."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "70FGzQEACAAJ",
+      "etag": "kyhEmbBR3Tg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/70FGzQEACAAJ",
+      "volumeInfo": {
+        "title": "JavaScript React (React.js",
+        "authors": [
+          "Victor Deras"
+        ],
+        "publishedDate": "2019",
+        "description": "Follow along with JavaScript expert Victor Deras and master this powerful JavaScript library for building user interfaces for web applications. There are ten topics within the React (React.js / ReactJS) video series: Introducing React . Be able to explain the basics of React in this first topic in the React (React.js / ReactJS) course. Know the situations where the React library can be used in creating user interfaces, including for complex pages that have a lot of elements, situations where there is a lot of user interactions, and for complex structures where keeping track of everything can be difficult. Understand the benefits of React including simplicity, data binding, testability, code reusability, and the virtual Document Object Model (DOM). Be able to explain at a high level the key features of React, including JSX, Virtual DOM, Components, and Hooks. Know the differences between React.JS and React Native. Many organizations use React including Netflix, PayPal, and Flickr. Set up the React environment in this first session as well. Introducing JSX . Become proficient with JSX in this second topic in the React (React.js / ReactJS) course. JSX is a syntax extension to JavaScript which exists in an HTML/XML format and extends ECMAScript. The syntax is used by preprocessors like Babel. Know why to use JSX, including that it is a simpler way to represent HTML elements. Follow along with Victor and practice using JSX and JSX children. Understand JSX security and compilation. Using React Developer Tools . Use React developer tools in this third topic in the React (React.js / ReactJS) course. These tools are an extension for Chrome and Firefox that allow you to inspect the React component tree. These tools allow you to check props and state on your components. Follow along with Victor and practice working with these React developer tools. Leveraging React Components . Leverage React components this fourth topic in the React (React.js / ReactJS) course. Be able to explain components, which are JavaScript functions that describe a group of React elements. Learn some of the properties of React elements, including that they are immutable. Follow along with Victor and practice working with and rendering React components. Also become proficient with composite components. Working with React Props and State . Work with React props and state in this fifth topic in the React (React.js / ReactJS) course. Be able to explain what props and states are. Props...",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OCLC:1137098560"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=70FGzQEACAAJ&dq=react&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=70FGzQEACAAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_React_React_js.html?hl=&id=70FGzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=70FGzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Follow along with JavaScript expert Victor Deras and master this powerful JavaScript library for building user interfaces for web applications."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FLjOywEACAAJ",
+      "etag": "lbhnrIGKs8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FLjOywEACAAJ",
+      "volumeInfo": {
+        "title": "React",
+        "subtitle": "The Complete Beginner's Guide to React",
+        "authors": [
+          "Moaml Mohmmed",
+          "Max Beerbohm"
+        ],
+        "publishedDate": "2019-11-20",
+        "description": "Facebook's React has changed the way we think about web applications and user interface development. Due to its design, you can use it beyond web. A feature known as the Virtual DOM enables this.In this chapter we'll go through some of the basic ideas behind the library so you understand React a little better before moving on.What is React?React is a JavaScript library that forces you to think in terms of components. This model of thinking fits user interfaces well. Depending on your background it might feel alien at first. You will have to think very carefully about the concept of state and where it belongs.Because state management is a difficult problem, a variety of solutions have appeared. In this book, we'll start by managing state ourselves and then push it to a Flux implementation known as Alt. There are also implementations available for several other alternatives, such as Redux, MobX, and Cerebral.React is pragmatic in the sense that it contains a set of escape hatches. If the React model doesn't work for you, it is still possible to revert back to something lower level. For instance, there are hooks that can be used to wrap older logic that relies on the DOM. This breaks the abstraction and ties your code to a specific environment, but sometimes that's the pragmatic thing to do.One of the fundamental problems of programming is how to deal with state. Suppose you are developing a user interface and want to show the same data in multiple places. How do you make sure the data is consistent?Historically we have mixed the concerns of the DOM and state and tried to manage it there. React solves this problem in a different way. It introduced the concept of the Virtual DOM to the masses.Virtual DOM exists on top of the actual DOM, or some other render target. It solves the state manipulation problem in its own way. Whenever changes are made to it, it figures out the best way to batch the changes to the underlying DOM structure. It is able to propagate changes across its virtual tree as in the image above.Virtual DOM PerformanceHandling the DOM manipulation this way can lead to increased performance. Manipulating the DOM by hand tends to be inefficient and is hard to optimize. By leaving the problem of DOM manipulation to a good implementation, you can save a lot of time and effort.React allows you to tune performance further by implementing hooks to adjust the way the virtual tree is updated. Though this is often an optional step.The biggest cost of Virtual DOM is that the implementation makes React quite big. You can expect the bundle sizes of small applications to be around 150-200 kB minified, React included. gzipping will help, but it's still big.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1709852216"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781709852213"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FLjOywEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FLjOywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=FLjOywEACAAJ&dq=react&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=FLjOywEACAAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React.html?hl=&id=FLjOywEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FLjOywEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Though this is often an optional step.The biggest cost of Virtual DOM is that the implementation makes React quite big."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YJZGDwAAQBAJ",
+      "etag": "SZZCyFVQxR4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YJZGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React Native - Building Mobile Apps with JavaScript",
+        "authors": [
+          "Vladimir Novick"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-08-24",
+        "description": "Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript About This Book Build cross-platform best seller native mobile applications in JavaScript with React-Native framework Learn about real world examples like Whatsapp, Instagram or Twitter. Learn all steps in React Native application development workflow from prototyping to deployment Get familiar with various mobile APIs covered in React Native framework and learn how to extend it further to non-supported APIs Who This Book Is For This book is for JavaScript developers who want to learn how to create native mobile apps using React Native. What You Will Learn Understand how React Native works under the hood and what makes it an ultimate choice for app development for lots of businesses. Create real world native apps with complex animations and styles Get familiar with important iOS and Android native APIs and access them using React Native Learn authentication techniques and how to connect your app to a real data by using Firebase or your own server Get familiar with lots of community packages considered as industry standard Walk through the whole app development workflow by creating Twitter app clone from design to deployment. Understand application release process to the Apple App Store and Google's Play Store In Detail The emergence of React Native has made creating mobile apps in JavaScript easier for developers. This book introduces you to the React Native framework and the mobile apps development process. It starts with how React Native fits into the world of hybrid apps, and why it's a popular framework. You'll learn how React Native works under the hood--compiling JavaScript to Native code to bridge JavaScript and native apps. Also, you'll learn how to write React Native components and use the ReactJS way of structuring your app. Understand how to use the industry standard Redux architecture as well as MobX--a newly emerging approach for state management--making your apps more robust and scalable. The mobile native world can be intimidating, with lots of platform-specific APIs. In this book, you'll learn about the most important APIs with help of the real-world examples. You'll also learn about the community packages that can help speed up your development. The book explains how to use these packages with JavaScript code, include native modules in your application, and write the modules yourself. Throughout the book, you will see examples of WhatsApp, Instagram, and YouTube apps and learn how to recreate them. You'll also learn debugging and testing techniques, authentication, dealing with real data, and much more. At the end we will walk through design to production process of Twitter app clone and will explain application release process to App Store and Play Store Style and approach This book gives you a solid foundation in building apps with React Native, from the basics to creating a fully functional Twitter clone! With industry best practices, plenty of code examples and complete projects to walk through.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787129795"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787129799"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 434,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YJZGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YJZGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=YJZGDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YJZGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YJZGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.49,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 26.94,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YJZGDwAAQBAJ&rdid=book-YJZGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38490000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 26940000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YJZGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Your go-to guide to creating truly native iOS and Android mobile applications using React and JavaScript About This Book Build cross-platform best seller native mobile applications in JavaScript with React-Native framework Learn about real ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Je7LtAEACAAJ",
+      "etag": "wrzsufBESr8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Je7LtAEACAAJ",
+      "volumeInfo": {
+        "title": "React for Real",
+        "subtitle": "Front-end Code, Untangled",
+        "authors": [
+          "Ludovico Fischer"
+        ],
+        "publishedDate": "2017-09-16",
+        "description": "When traditional web development techniques don't cut it, try React. Use React to create highly interactive web pages faster and with fewer errors. With a little JavaScript experience under your belt, you'll be up and running in no time creating dynamic web applications. Craft isolated components that make your apps easier to develop and maintain, with plenty of guidance on best practices. Set up automated tests, and make pages render fast for your users. See how to use your React skills to integrate with other front-end technologies when needed. Dive right into React by defining components, the basic building blocks of a React application. Integrate modern JavaScript language features such as classes and arrow functions in your app. Analyze the relationships in your data to isolate state, and sync the data model with what your users see. Once you're familiar with how a React application works, organize your code base with modules. Configure a production build and deliver your app as efficiently as possible with Webpack. Master testing with React-specific advice and tools to catch the most bugs with the least amount of code. Learn the basics of the Redux library. Define actions and manage an immutable central state with reducers, then connect Redux to your React components to build even larger and more complex interfaces. Package your React code as a standalone widget so anyone can use it in their own applications. Reuse existing JavaScript code in your React components, and build a new React view on top of an existing data model shared with a legacy application. When you finish this book, you'll be well on your way to solving your front-end problems with React. What You Need: Node.js 6.x or later, and a modern web browser.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1680502638"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781680502633"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 120,
+        "printType": "BOOK",
+        "categories": [
+          "Application software"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Je7LtAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Je7LtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=Je7LtAEACAAJ&dq=react&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=Je7LtAEACAAJ&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React_for_Real.html?hl=&id=Je7LtAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Je7LtAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Use React to create highly interactive web pages faster and with fewer errors."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZmSGDwAAQBAJ",
+      "etag": "d4SeKQEaYcE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZmSGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hands-On Full-Stack Web Development with GraphQL and React",
+        "subtitle": "Build scalable full-stack applications while learning to solve complex problems with GraphQL",
+        "authors": [
+          "Sebastian Grebe"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-01-31",
+        "description": "Unearth the power of GraphQL, React, Apollo, Node, and Express to build a scalable, production ready application Key Features Build full stack applications with modern APIs using GraphQL and Apollo Integrate Apollo into React and build frontend components using GraphQL Implement a self-updating notification pop-up with a unique GraphQL feature called Subscriptions Book Description React, one of the most widely used JavaScript frameworks, allows developers to build fast and scalable front end applications for any use case. GraphQL is the modern way of querying an API. It represents an alternative to REST and is the next evolution in web development. Combining these two revolutionary technologies will give you a future-proof and scalable stack you can start building your business around. This book will guide you in implementing applications by using React, Apollo, Node.js and SQL. We'll focus on solving complex problems with GraphQL, such as abstracting multi-table database architectures and handling image uploads. Our client, and server will be powered by Apollo. Finally we will go ahead and build a complete Graphbook. While building the app, we'll cover the tricky parts of connecting React to the back end, and maintaining and synchronizing state. We'll learn all about querying data and authenticating users. We'll write test cases to verify the front end and back end functionality for our application and cover deployment. By the end of the book, you will be proficient in using GraphQL and React for your full-stack development requirements. What you will learn Resolve data from multi-table database and system architectures Build a GraphQL API by implementing models and schemas with Apollo and Sequelize Set up an Apollo Client and build front end components using React Use Mocha to test your full-stack application Write complex React components and share data across them Deploy your application using Docker Who this book is for The book is for web developers who want to enhance their skills and build complete full stack applications using industry standards. Familiarity with JavaScript, React, and GraphQL is expected to get the most from this book.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789135763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789135761"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 468,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZmSGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZmSGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=ZmSGDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZmSGDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZmSGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 35.19,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 24.63,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZmSGDwAAQBAJ&rdid=book-ZmSGDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 35190000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 24630000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZmSGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Combining these two revolutionary technologies will give you a future-proof and scalable stack you can start building your business around. This book will guide you in implementing applications by using React, Apollo, Node.js and SQL."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uVVSDwAAQBAJ",
+      "etag": "gUxn8mcK6d4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uVVSDwAAQBAJ",
+      "volumeInfo": {
+        "title": "React!",
+        "authors": [
+          "Cristovam Buarque"
+        ],
+        "publisher": "Editora Garamond",
+        "publishedDate": "2018-03-20",
+        "description": "Stéphane Hessel, recently published a short pamphlet titled “Get Angry” (Indignez-vous). In it, Hessel asserts that today’s youth should assume the same indignation that his generation in its turn had against Nazism and capitalism, as well as indignation against financial capital inequality what Israel does in Palestine (it is worth remembering that Hessel is Jewish) and the indifference that has gripped the world in the face of the injustices and inefficiencies of the current financial economic system. It is a beautiful text, less than 30 pages long, and has been largely successful. I bought the 13th edition in French in Hamburg. Next to a bookshop in a café Balzac, I read the entire text and, inspired by Hessel, who I would meet some months after, wrote this “React”.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788576173571"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8576173573"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uVVSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uVVSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=uVVSDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uVVSDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uVVSDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2.41,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 2,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uVVSDwAAQBAJ&rdid=book-uVVSDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2410000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2000000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/React-sample-epub.acsm?id=uVVSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/React-sample-pdf.acsm?id=uVVSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uVVSDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I bought the 13th edition in French in Hamburg. Next to a bookshop in a café Balzac, I read the entire text and, inspired by Hessel, who I would meet some months after, wrote this “React”."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WhlQxCss0JIC",
+      "etag": "GLmobrznhus",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WhlQxCss0JIC",
+      "volumeInfo": {
+        "title": "React",
+        "subtitle": "CIA Black Ops, a Novel",
+        "authors": [
+          "Robin Moore",
+          "Chuck Lightfoot"
+        ],
+        "publishedDate": "2004",
+        "description": "A new novel by the author of The Hunt for Bin Laden and The French Connection chronicles the activities of a secret organization that carries out assassinations of America's enemies beyond the reach even of the President.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1592284523"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781592284528"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 297,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WhlQxCss0JIC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WhlQxCss0JIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=WhlQxCss0JIC&q=react&dq=react&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=WhlQxCss0JIC&dq=react&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/React.html?hl=&id=WhlQxCss0JIC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WhlQxCss0JIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A new novel by the author of The Hunt for Bin Laden and The French Connection chronicles the activities of a secret organization that carries out assassinations of America&#39;s enemies beyond the reach even of the President."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TayXDwAAQBAJ",
+      "etag": "l6tpoTjJs9A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TayXDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Pro MERN Stack",
+        "subtitle": "Full Stack Web App Development with Mongo, Express, React, and Node",
+        "authors": [
+          "Vasan Subramanian"
+        ],
+        "publisher": "Apress",
+        "publishedDate": "2019-05-11",
+        "description": "Assemble the complete stack required to build a modern web app using MongoDB, Express, React, and Node. This book also covers many other complementary tools: React Router, GraphQL, React-Bootstrap, Babel, and Webpack. This new edition will use the latest version of React (React 16) and the latest React Router (React Router 4), which has a significantly different approach to routing compared to React Router 2 which was used in the first edition of the book. Though the primary focus of Pro MERN Stack is to equip you with all that is required to build a full-fledged web application, a large portion of the book will be devoted to React 16. The popular MEAN (MongoDB, Express, AngularJS, Node) stack introduced Single Page Apps (SPAs) and front-end Model-View-Controller (MVC) as new and efficient paradigms. Facebook's React is a technology that competes indirectly with AngularJS. It is not a full-fledged MVC framework. It is a JavaScript library for building user interfaces (in some sense the View part). Yet, it is possible to build a web app by replacing AngularJS with React – hence the term MERN stack What You Will Learn Discover the features of React 16 to get the maximum out of this library Gain the basics of MongoDB, Express, and Node to build a web app Work with other libraries complementary to React, including React-Bootstrap, React Router, and GraphQL Use tools such as Babel and Webpack required to build JavaScript-based SPAs Tie all the components together to build a complete web app. Who This Book Is For Developers and architects who have prior experience in any web app stack other than the MERN stack will find the book useful to learn about this modern stack. Prior knowledge of JavaScript, HTML, and CSS is required.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781484243916"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1484243919"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 542,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TayXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TayXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=TayXDwAAQBAJ&printsec=frontcover&dq=react&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=TayXDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=TayXDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.03,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 26.62,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=TayXDwAAQBAJ&rdid=book-TayXDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38030000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 26620000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Pro_MERN_Stack-sample-epub.acsm?id=TayXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Pro_MERN_Stack-sample-pdf.acsm?id=TayXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TayXDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Assemble the complete stack required to build a modern web app using MongoDB, Express, React, and Node. This book also covers many other complementary tools: React Router, GraphQL, React-Bootstrap, Babel, and Webpack."
+      }
+    }
+  ]
+}
