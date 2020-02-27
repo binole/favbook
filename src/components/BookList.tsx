@@ -7,9 +7,9 @@ type Props = {
   books?: Volume[];
 };
 
-export function BookList({ books }: Props) {
+export function BookList({ books, ...rest }: Props) {
   return (
-    <List>
+    <List {...rest}>
       {books
         ? books.map(
             ({
@@ -24,7 +24,7 @@ export function BookList({ books }: Props) {
               }
             }) => {
               return (
-                <ListItem key={id}>
+                <ListItem key={id} data-testid='book-item'>
                   <BookItem
                     book={{
                       id,

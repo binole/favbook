@@ -1,5 +1,6 @@
 {
   "baseUrl": "http://localhost:3000",
   "viewportWidth": 375,
-  "viewportHeight": 667
+  "viewportHeight": 667,
+  "fixturesFolder": "src/__fixtures__"
 }

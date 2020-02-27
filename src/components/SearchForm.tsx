@@ -38,7 +38,7 @@ export function SearchForm({
       <InputRightElement>
         <IconButton
           type='submit'
-          aria-label='Search database'
+          aria-label='Search'
           icon='search'
           variant='ghost'
           isRound

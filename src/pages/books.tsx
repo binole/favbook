@@ -7,15 +7,22 @@ import { withBookStore, BookStore } from '../containers/BookStore';
 import { Header } from '../components/Header';
 import { SearchForm } from '../components/SearchForm';
 
-export function BooksPage({ books, loadBooks }: BookStore) {
+export function BooksPage({ status, books, loadBooks }: BookStore) {
   return (
     <Layout header={<Header search={<SearchForm onSearch={loadBooks} />} />}>
-      <Box px={{ md: '104px' }} py={{ md: 4 }} maxW={800}>
-        <BookList books={books} />
-        <Box textAlign='center' py={2}>
-          <Button fontWeight='normal'>View more books</Button>
+      {status !== 'idle' && (
+        <Box px={{ md: '104px' }} py={{ md: 4 }} maxW={800}>
+          {status === 'loading' && <BookList data-testid='book-loading' />}
+          {status === 'loaded' && (
+            <>
+              <BookList books={books} />
+              <Box textAlign='center' py={2}>
+                <Button fontWeight='normal'>View more books</Button>
+              </Box>
+            </>
+          )}
         </Box>
-      </Box>
+      )}
     </Layout>
   );
 }

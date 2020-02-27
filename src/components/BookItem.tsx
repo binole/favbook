@@ -10,7 +10,7 @@ type Props = {
 export function BookItem({ book }: Props) {
   return (
     <Box p={4}>
-      <Flex>
+      <Flex align='flex-start'>
         <Box
           width={80}
           minH={104}

@@ -5,7 +5,7 @@ exports[`Storyshots BookItem Default 1`] = `
   className="css-q5fqw0"
 >
   <div
-    className="css-k008qs"
+    className="css-1yp4ln"
   >
     <div
       className="css-1coa9a2"
@@ -69,7 +69,7 @@ exports[`Storyshots BookItem Loading 1`] = `
   className="css-q5fqw0"
 >
   <div
-    className="css-k008qs"
+    className="css-1yp4ln"
   >
     <div
       className="css-1coa9a2"
@@ -97,12 +97,13 @@ exports[`Storyshots BookList Default 1`] = `
 >
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -162,12 +163,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -196,12 +198,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -230,12 +233,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -264,12 +268,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -298,12 +303,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -338,12 +344,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -397,12 +404,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -431,12 +439,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -471,12 +480,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -511,12 +521,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -545,12 +556,13 @@ exports[`Storyshots BookList Default 1`] = `
   </li>
   <li
     className="css-992tcj"
+    data-testid="book-item"
   >
     <div
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -591,7 +603,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -619,7 +631,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -647,7 +659,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-q5fqw0"
     >
       <div
-        className="css-k008qs"
+        className="css-1yp4ln"
       >
         <div
           className="css-1coa9a2"
@@ -671,7 +683,7 @@ exports[`Storyshots BookList Loading 1`] = `
 </ul>
 `;
 
-exports[`Storyshots Pages/Books Default 1`] = `
+exports[`Storyshots Pages/Books Idle 1`] = `
 <div
   className="css-1h5u2ui"
 >
@@ -699,7 +711,62 @@ exports[`Storyshots Pages/Books Default 1`] = `
           className="css-mczi6p"
         >
           <button
-            aria-label="Search database"
+            aria-label="Search"
+            className="css-12ol5rm"
+            type="submit"
+          >
+            <svg
+              aria-hidden={true}
+              className="css-1im46kq"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23.384,21.619,16.855,15.09a9.284,9.284,0,1,0-1.768,1.768l6.529,6.529a1.266,1.266,0,0,0,1.768,0A1.251,1.251,0,0,0,23.384,21.619ZM2.75,9.5a6.75,6.75,0,1,1,6.75,6.75A6.758,6.758,0,0,1,2.75,9.5Z"
+                fill="currentColor"
+              />
+            </svg>
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <main
+    className="css-0"
+  />
+</div>
+`;
+
+exports[`Storyshots Pages/Books Loaded 1`] = `
+<div
+  className="css-1h5u2ui"
+>
+  <div
+    className="css-ay2h26"
+  >
+    <a
+      className="css-1jcjtoe"
+    >
+      favbook
+    </a>
+    <div
+      className="css-u271h6"
+    >
+      <form
+        className="css-kjafn5"
+        onSubmit={[Function]}
+      >
+        <input
+          className="css-1ohh5ys"
+          onChange={[Function]}
+          placeholder="Search"
+        />
+        <div
+          className="css-mczi6p"
+        >
+          <button
+            aria-label="Search"
             className="css-12ol5rm"
             type="submit"
           >
@@ -731,12 +798,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
       >
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -796,12 +864,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -830,12 +899,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -864,12 +934,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -898,12 +969,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -932,12 +1004,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -972,12 +1045,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -1031,12 +1105,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -1065,12 +1140,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -1105,12 +1181,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -1145,12 +1222,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -1179,12 +1257,13 @@ exports[`Storyshots Pages/Books Default 1`] = `
         </li>
         <li
           className="css-992tcj"
+          data-testid="book-item"
         >
           <div
             className="css-q5fqw0"
           >
             <div
-              className="css-k008qs"
+              className="css-1yp4ln"
             >
               <div
                 className="css-1coa9a2"
@@ -1222,6 +1301,155 @@ exports[`Storyshots Pages/Books Default 1`] = `
           View more books
         </button>
       </div>
+    </div>
+  </main>
+</div>
+`;
+
+exports[`Storyshots Pages/Books Loading 1`] = `
+<div
+  className="css-1h5u2ui"
+>
+  <div
+    className="css-ay2h26"
+  >
+    <a
+      className="css-1jcjtoe"
+    >
+      favbook
+    </a>
+    <div
+      className="css-u271h6"
+    >
+      <form
+        className="css-kjafn5"
+        onSubmit={[Function]}
+      >
+        <input
+          className="css-1ohh5ys"
+          onChange={[Function]}
+          placeholder="Search"
+        />
+        <div
+          className="css-mczi6p"
+        >
+          <button
+            aria-label="Search"
+            className="css-12ol5rm"
+            type="submit"
+          >
+            <svg
+              aria-hidden={true}
+              className="css-1im46kq"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M23.384,21.619,16.855,15.09a9.284,9.284,0,1,0-1.768,1.768l6.529,6.529a1.266,1.266,0,0,0,1.768,0A1.251,1.251,0,0,0,23.384,21.619ZM2.75,9.5a6.75,6.75,0,1,1,6.75,6.75A6.758,6.758,0,0,1,2.75,9.5Z"
+                fill="currentColor"
+              />
+            </svg>
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+  <main
+    className="css-0"
+  >
+    <div
+      className="css-1srq6w0"
+    >
+      <ul
+        className="css-19ndbdu"
+        data-testid="book-loading"
+      >
+        <li
+          className="css-992tcj"
+        >
+          <div
+            className="css-q5fqw0"
+          >
+            <div
+              className="css-1yp4ln"
+            >
+              <div
+                className="css-1coa9a2"
+              />
+              <div
+                className="css-6c8cje"
+              >
+                <div
+                  className="css-h3yrdz"
+                />
+                <div
+                  className="css-1r43fex"
+                />
+                <div
+                  className="css-1r43fex"
+                />
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          className="css-992tcj"
+        >
+          <div
+            className="css-q5fqw0"
+          >
+            <div
+              className="css-1yp4ln"
+            >
+              <div
+                className="css-1coa9a2"
+              />
+              <div
+                className="css-6c8cje"
+              >
+                <div
+                  className="css-h3yrdz"
+                />
+                <div
+                  className="css-1r43fex"
+                />
+                <div
+                  className="css-1r43fex"
+                />
+              </div>
+            </div>
+          </div>
+        </li>
+        <li
+          className="css-992tcj"
+        >
+          <div
+            className="css-q5fqw0"
+          >
+            <div
+              className="css-1yp4ln"
+            >
+              <div
+                className="css-1coa9a2"
+              />
+              <div
+                className="css-6c8cje"
+              >
+                <div
+                  className="css-h3yrdz"
+                />
+                <div
+                  className="css-1r43fex"
+                />
+                <div
+                  className="css-1r43fex"
+                />
+              </div>
+            </div>
+          </div>
+        </li>
+      </ul>
     </div>
   </main>
 </div>
@@ -1255,7 +1483,7 @@ exports[`Storyshots Pages/Home Default 1`] = `
           className="css-mczi6p"
         >
           <button
-            aria-label="Search database"
+            aria-label="Search"
             className="css-12ol5rm"
             type="submit"
           >
@@ -1278,508 +1506,7 @@ exports[`Storyshots Pages/Home Default 1`] = `
   </div>
   <main
     className="css-0"
-  >
-    <div
-      className="css-1srq6w0"
-    >
-      <ul
-        className="css-19ndbdu"
-      >
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  Learning React
-                  : 
-                  <p
-                    className="css-a1igtn"
-                  >
-                    Functional Web Development with React and Redux
-                  </p>
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Alex Banks, Eve Porcello
-                </p>
-                <div
-                  className="css-u4p24i"
-                >
-                  <svg
-                    className="css-5i7nil"
-                    focusable={false}
-                    role="presentation"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      d="M23.555,8.729a1.505,1.505,0,0,0-1.406-.98H16.062a.5.5,0,0,1-.472-.334L13.405,1.222a1.5,1.5,0,0,0-2.81,0l-.005.016L8.41,7.415a.5.5,0,0,1-.471.334H1.85A1.5,1.5,0,0,0,.887,10.4l5.184,4.3a.5.5,0,0,1,.155.543L4.048,21.774a1.5,1.5,0,0,0,2.31,1.684l5.346-3.92a.5.5,0,0,1,.591,0l5.344,3.919a1.5,1.5,0,0,0,2.312-1.683l-2.178-6.535a.5.5,0,0,1,.155-.543l5.194-4.306A1.5,1.5,0,0,0,23.555,8.729Z"
-                      fill="currentColor"
-                    />
-                  </svg>
-                  <p
-                    className="css-141x2iq"
-                  >
-                    5.00
-                  </p>
-                  <p
-                    className="css-pur3hh"
-                  >
-                    (1 ratings)
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  Mastering React
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Adam Horton, Ryan Vice
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  React.js Essentials
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Artemij Fedosejev
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  Mastering React Native
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Eric Masiello, Jacob Friedmann
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  Introduction to React
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Cory Gackenheimer
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  React Projects
-                  : 
-                  <p
-                    className="css-a1igtn"
-                  >
-                    Build 12 real-world applications from scratch using React, React Native, and React 360
-                  </p>
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Roy Derks
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  React
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Jacob Dotson
-                </p>
-                <div
-                  className="css-u4p24i"
-                >
-                  <svg
-                    className="css-5i7nil"
-                    focusable={false}
-                    role="presentation"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      d="M23.555,8.729a1.505,1.505,0,0,0-1.406-.98H16.062a.5.5,0,0,1-.472-.334L13.405,1.222a1.5,1.5,0,0,0-2.81,0l-.005.016L8.41,7.415a.5.5,0,0,1-.471.334H1.85A1.5,1.5,0,0,0,.887,10.4l5.184,4.3a.5.5,0,0,1,.155.543L4.048,21.774a1.5,1.5,0,0,0,2.31,1.684l5.346-3.92a.5.5,0,0,1,.591,0l5.344,3.919a1.5,1.5,0,0,0,2.312-1.683l-2.178-6.535a.5.5,0,0,1,.155-.543l5.194-4.306A1.5,1.5,0,0,0,23.555,8.729Z"
-                      fill="currentColor"
-                    />
-                  </svg>
-                  <p
-                    className="css-141x2iq"
-                  >
-                    5.00
-                  </p>
-                  <p
-                    className="css-pur3hh"
-                  >
-                    (1 ratings)
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  REACT
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Tobi Nifesi
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  Designing Applications with Spring Boot 2.2 and React JS
-                  : 
-                  <p
-                    className="css-a1igtn"
-                  >
-                    Step-by-step guide to design and develop intuitive full stack web applications
-                  </p>
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Dinesh Rajput 
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  React Native for Mobile Development
-                  : 
-                  <p
-                    className="css-a1igtn"
-                  >
-                    Harness the Power of React Native to Create Stunning iOS and Android Applications
-                  </p>
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Akshat Paul, Abhishek Nalwaya
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  The Must-React System
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Kraig Kleeman
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-        <li
-          className="css-992tcj"
-        >
-          <div
-            className="css-q5fqw0"
-          >
-            <div
-              className="css-k008qs"
-            >
-              <div
-                className="css-1coa9a2"
-              >
-                <img
-                  alt=""
-                  className="css-17eao0m"
-                />
-              </div>
-              <div
-                className="css-6c8cje"
-              >
-                <h3
-                  className="css-1lf0679"
-                >
-                  Think, Act, Stay Safe with the R.E.A.C.T Approach to Self Defence
-                </h3>
-                <p
-                  className="css-5k86z4"
-                >
-                  Stephen W. Collins
-                </p>
-              </div>
-            </div>
-          </div>
-        </li>
-      </ul>
-      <div
-        className="css-enqjr"
-      >
-        <button
-          className="css-144nkc5"
-          type="button"
-        >
-          View more books
-        </button>
-      </div>
-    </div>
-  </main>
+  />
 </div>
 `;
 
@@ -1797,7 +1524,7 @@ exports[`Storyshots SearchForm Default 1`] = `
     className="css-mczi6p"
   >
     <button
-      aria-label="Search database"
+      aria-label="Search"
       className="css-12ol5rm"
       type="submit"
     >
