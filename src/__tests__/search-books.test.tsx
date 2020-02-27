@@ -42,6 +42,18 @@ it('should not show load more when no more results', async () => {
   expect(_.queryByText(/more/i)).not.toBeInTheDocument();
 });
 
+it('should show empty when no results', async () => {
+  const _ = setup();
+
+  mockedAxios.get.mockResolvedValueOnce({
+    data: { totalItems: 0 }
+  });
+
+  await _.searchFor('react');
+
+  expect(_.queryByText(/not found/)).toBeInTheDocument();
+});
+
 it('should fetch books when submit search and click on load more', async () => {
   const _ = setup();
 

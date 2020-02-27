@@ -40,7 +40,9 @@ export function withBookStore<P extends {}>(
       );
 
       setState(state => {
-        const books = startIndex
+        const books = !res.data.totalItems
+          ? []
+          : startIndex
           ? [...state.books, ...res.data.items]
           : res.data.items;
 

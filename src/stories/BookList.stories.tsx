@@ -7,5 +7,5 @@ export default {
   component: BookList
 };
 
-export const Default = () => <BookList books={books.items} />;
 export const Loading = () => <BookList />;
+export const Loaded = () => <BookList books={books.items} />;

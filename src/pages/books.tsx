@@ -6,6 +6,8 @@ import { BookList } from '../components/BookList';
 import { withBookStore, BookStore } from '../containers/BookStore';
 import { Header } from '../components/Header';
 import { SearchForm } from '../components/SearchForm';
+import { Empty } from '../components/Empty';
+import BookNotFoundSrc from '../images/book-not-found.svg';
 
 export function BooksPage({
   nextIndex = 0,
@@ -30,6 +32,13 @@ export function BooksPage({
         <Box px={{ md: '104px' }} py={{ md: 4 }} maxW={800}>
           <BookList books={books} />
           {status === 'loading' && <BookList data-testid='book-loading' />}
+          {status === 'loaded' && books.length === 0 && (
+            <Empty
+              image={BookNotFoundSrc}
+              heading='Books not found!'
+              description='No results containing all your search terms were found. Please try another keywords.'
+            />
+          )}
           {status === 'loaded' && nextIndex > 0 && (
             <Box textAlign='center' py={2}>
               <Button fontWeight='normal' onClick={onLoadMore}>

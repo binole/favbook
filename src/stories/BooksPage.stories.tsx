@@ -23,3 +23,7 @@ export const Loaded = () => (
     loadBooks={action('onLoadBooks')}
   />
 );
+
+export const NoResults = () => (
+  <BooksPage status='loaded' books={[]} loadBooks={action('onLoadBooks')} />
+);
