@@ -29,7 +29,7 @@ export function BooksPage({
   return (
     <Layout header={<Header search={<SearchForm onSearch={onLoadBooks} />} />}>
       {status !== 'idle' && (
-        <Box px={{ md: '104px' }} py={{ md: 4 }} maxW={800}>
+        <Box py={{ md: 4 }} mx='auto'>
           <BookList books={books} />
           {status === 'loading' && <BookList data-testid='book-loading' />}
           {status === 'loaded' && books.length === 0 && (
