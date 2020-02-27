@@ -10,6 +10,7 @@ interface SearchParams {
 
 export interface BookStore {
   status?: string;
+  nextIndex?: number;
   books: Volume[];
   loadBooks: (params: SearchParams) => void;
 }
@@ -18,33 +19,42 @@ export function withBookStore<P extends {}>(
   WrappedComponent: React.ComponentType<P & BookStore>
 ) {
   return function BookStoreContainer(props: P) {
-    const [status, setStatus] = React.useState('idle');
-    const [books, setBooks] = React.useState<Volume[]>([]);
+    const [state, setState] = React.useState({
+      status: 'idle',
+      nextIndex: 0,
+      books: []
+    });
 
-    async function loadBooks(params: SearchParams) {
-      if (!params.q.trim()) return;
+    async function loadBooks({
+      q,
+      startIndex = 0,
+      maxResults = 12
+    }: SearchParams) {
+      if (!q.trim()) return;
 
-      setStatus('loading');
+      setState({ ...state, status: 'loading' });
 
       const res = await axios.get(
         'https://www.googleapis.com/books/v1/volumes',
-        { params }
+        { params: { q, startIndex, maxResults } }
       );
 
-      setBooks(books =>
-        params.startIndex ? [...books, ...res.data.items] : res.data.items
-      );
+      setState(state => {
+        const books = startIndex
+          ? [...state.books, ...res.data.items]
+          : res.data.items;
 
-      setStatus('loaded');
+        const nextIndex = books.length < res.data.totalItems ? books.length : 0;
+
+        return {
+          ...state,
+          books,
+          nextIndex,
+          status: 'loaded'
+        };
+      });
     }
 
-    return (
-      <WrappedComponent
-        status={status}
-        books={books}
-        loadBooks={loadBooks}
-        {...props}
-      />
-    );
+    return <WrappedComponent {...state} loadBooks={loadBooks} {...props} />;
   };
 }

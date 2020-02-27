@@ -7,36 +7,30 @@ import { withBookStore, BookStore } from '../containers/BookStore';
 import { Header } from '../components/Header';
 import { SearchForm } from '../components/SearchForm';
 
-export function BooksPage({ status, books, loadBooks }: BookStore) {
-  const [state, setState] = React.useState({
-    q: '',
-    startIndex: 0,
-    maxResults: 12
-  });
+export function BooksPage({
+  nextIndex = 0,
+  status,
+  books,
+  loadBooks
+}: BookStore) {
+  const [q, setQ] = React.useState('');
 
-  const fetchBooks = React.useCallback(loadBooks, []);
-
-  function onSearch(q: string) {
-    setState({ ...state, q, startIndex: 0 });
+  function onLoadBooks(q: string) {
+    setQ(q);
+    loadBooks({ q });
   }
 
   function onLoadMore() {
-    setState({ ...state, startIndex: books.length });
+    loadBooks({ q, startIndex: nextIndex });
   }
 
-  React.useEffect(() => {
-    fetchBooks(state);
-  }, [fetchBooks, state]);
-
   return (
-    <Layout header={<Header search={<SearchForm onSearch={onSearch} />} />}>
+    <Layout header={<Header search={<SearchForm onSearch={onLoadBooks} />} />}>
       {status !== 'idle' && (
         <Box px={{ md: '104px' }} py={{ md: 4 }} maxW={800}>
           <BookList books={books} />
-
-          {status === 'loading' ? (
-            <BookList data-testid='book-loading' />
-          ) : (
+          {status === 'loading' && <BookList data-testid='book-loading' />}
+          {status === 'loaded' && nextIndex > 0 && (
             <Box textAlign='center' py={2}>
               <Button fontWeight='normal' onClick={onLoadMore}>
                 View more books

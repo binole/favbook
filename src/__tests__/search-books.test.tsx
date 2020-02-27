@@ -17,7 +17,32 @@ beforeEach(() => {
   mockedAxios.get.mockClear();
 });
 
-it('should load books when submit search and click on load more', async () => {
+it('should not fetch when search empty term', async () => {
+  const _ = setup();
+
+  fireEvent.change(_.getByPlaceholderText(/search/i), {
+    target: { value: '    ' }
+  });
+
+  fireEvent.click(_.getByLabelText(/search/i));
+
+  expect(mockedAxios.get).not.toHaveBeenCalled();
+});
+
+it('should not show load more when no more results', async () => {
+  const _ = setup();
+  const data = require('../__fixtures__/volumes/q=react&startIndex=0&maxResults=12.json');
+
+  mockedAxios.get.mockResolvedValueOnce({
+    data: { ...data, totalItems: 12 }
+  });
+
+  await _.searchFor('react');
+
+  expect(_.queryByText(/more/i)).not.toBeInTheDocument();
+});
+
+it('should fetch books when submit search and click on load more', async () => {
   const _ = setup();
 
   /* Search for `react` */

@@ -1543,17 +1543,6 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
           </div>
         </li>
       </ul>
-      <div
-        className="css-enqjr"
-      >
-        <button
-          className="css-144nkc5"
-          onClick={[Function]}
-          type="button"
-        >
-          View more books
-        </button>
-      </div>
     </div>
   </main>
 </div>
