@@ -8,18 +8,40 @@ import { Header } from '../components/Header';
 import { SearchForm } from '../components/SearchForm';
 
 export function BooksPage({ status, books, loadBooks }: BookStore) {
+  const [state, setState] = React.useState({
+    q: '',
+    startIndex: 0,
+    maxResults: 12
+  });
+
+  const fetchBooks = React.useCallback(loadBooks, []);
+
+  function onSearch(q: string) {
+    setState({ ...state, q, startIndex: 0 });
+  }
+
+  function onLoadMore() {
+    setState({ ...state, startIndex: books.length });
+  }
+
+  React.useEffect(() => {
+    fetchBooks(state);
+  }, [fetchBooks, state]);
+
   return (
-    <Layout header={<Header search={<SearchForm onSearch={loadBooks} />} />}>
+    <Layout header={<Header search={<SearchForm onSearch={onSearch} />} />}>
       {status !== 'idle' && (
         <Box px={{ md: '104px' }} py={{ md: 4 }} maxW={800}>
-          {status === 'loading' && <BookList data-testid='book-loading' />}
-          {status === 'loaded' && (
-            <>
-              <BookList books={books} />
-              <Box textAlign='center' py={2}>
-                <Button fontWeight='normal'>View more books</Button>
-              </Box>
-            </>
+          <BookList books={books} />
+
+          {status === 'loading' ? (
+            <BookList data-testid='book-loading' />
+          ) : (
+            <Box textAlign='center' py={2}>
+              <Button fontWeight='normal' onClick={onLoadMore}>
+                View more books
+              </Button>
+            </Box>
           )}
         </Box>
       )}

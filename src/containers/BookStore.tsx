@@ -2,10 +2,16 @@ import React from 'react';
 import axios from 'axios';
 import { Volume } from '../domain/Volume';
 
+interface SearchParams {
+  q: string;
+  startIndex?: number;
+  maxResults?: number;
+}
+
 export interface BookStore {
   status?: string;
   books: Volume[];
-  loadBooks: (term: string) => void;
+  loadBooks: (params: SearchParams) => void;
 }
 
 export function withBookStore<P extends {}>(
@@ -13,23 +19,22 @@ export function withBookStore<P extends {}>(
 ) {
   return function BookStoreContainer(props: P) {
     const [status, setStatus] = React.useState('idle');
-    const [books, setBooks] = React.useState([]);
+    const [books, setBooks] = React.useState<Volume[]>([]);
 
-    async function loadBooks(term: string) {
+    async function loadBooks(params: SearchParams) {
+      if (!params.q.trim()) return;
+
       setStatus('loading');
 
       const res = await axios.get(
         'https://www.googleapis.com/books/v1/volumes',
-        {
-          params: {
-            q: term,
-            startIndex: 0,
-            maxResults: 12
-          }
-        }
+        { params }
       );
 
-      setBooks(res.data.items);
+      setBooks(books =>
+        params.startIndex ? [...books, ...res.data.items] : res.data.items
+      );
+
       setStatus('loaded');
     }
 

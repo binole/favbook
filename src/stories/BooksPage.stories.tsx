@@ -9,19 +9,11 @@ export default {
 };
 
 export const Idle = () => (
-  <BooksPage
-    status='idle'
-    books={books.items}
-    loadBooks={action('onLoadBooks')}
-  />
+  <BooksPage status='idle' books={[]} loadBooks={action('onLoadBooks')} />
 );
 
 export const Loading = () => (
-  <BooksPage
-    status='loading'
-    books={books.items}
-    loadBooks={action('onLoadBooks')}
-  />
+  <BooksPage status='loading' books={[]} loadBooks={action('onLoadBooks')} />
 );
 
 export const Loaded = () => (

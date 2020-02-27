@@ -40,7 +40,7 @@ export function BookList({ books, ...rest }: Props) {
               );
             }
           )
-        : [1, 2, 3].map(i => (
+        : Array.from({ length: 12 }).map((_, i) => (
             <ListItem key={i}>
               <BookItem />
             </ListItem>

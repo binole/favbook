@@ -1,0 +1,1085 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 448,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "9LbjCwAAQBAJ",
+      "etag": "f8H//x6RHto",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9LbjCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Switching to Angular 2",
+        "authors": [
+          "Minko Gechev"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2016-03-30",
+        "description": "Build SEO-friendly, high-performance single-page applications with Angular 2 About This Book Get up to date with the latest changes to Angular 2, including the improvements to directives, change detection, dependency injection, router, and more Understand Angular 2's new component-based architecture Start using TypeScript to supercharge your Angular 2 applications Who This Book Is For Do you want to jump in at the deep end of Angular 2? Or perhaps you're interested assessing the changes before moving over? If so, then Switching to Angular 2 is the book for you. To get the most out of the book, you'll need to be familiar with AngularJS 1.x, and have a good understanding of JavaScript. No knowledge of the changes made to Angular 2 is required follow along. What You Will Learn Understand the changes made from Angular 1.x with side-by-side code samples to help demystify the Angular 2 learning curve Start working with Angular 2's new method of implementing directives Use TypeScript to write modern, powerful Angular 2 applications Dig in to the change-detection method, and other architectural changes to make sure you know what's going on under the hood of Angular 2. Get to work with the new router in Angular 2 Use the new features of Angular 2 including pipes, or the updated features such as forms, services, and the DI module Master server-side rendering in Angular 2 to keep your new applications SEO friendly In Detail AngularJS is a JavaScript framework that makes building web applications easier. It is used today in large-scale, high-traffic websites that struggle with under-performance, portability issues, as well as SEO unfriendliness, and complexity at scale. Angular 2 changes that. It is the modern framework you need to build performant and robust web applications. “Switching to Angular 2” is the quickest way to get to grips with Angular 2 and will help you transition in to the brave new world of Angular 2. We'll start with an overview which sets the changes of the framework in context with version 1.x. After that, you will be taken on a TypeScript crash-course so we can take advantage of Angular 2 in its native, statically-typed environment. We'll look at the new change-detection method in detail, how Directives and Components change how you create websites with Angular, the new Angular 2 router, and much more. By the end of the book, you'll be ready to start building quick and efficient Angular 2 applications that take advantage of all the new features on offer. Style and approach Starting with a comparison between Angular versions that is filled with side-by-side code examples to help highlight the changes, each chapter then looks at major changes to the framework as is filled with small examples and sample code to get you started",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785887116"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785887114"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9LbjCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9LbjCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=9LbjCwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9LbjCwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9LbjCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 28.59,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 20.01,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9LbjCwAAQBAJ&rdid=book-9LbjCwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 28590000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 20010000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9LbjCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If so, then Switching to Angular 2 is the book for you. To get the most out of the book, you&#39;ll need to be familiar with AngularJS 1.x, and have a good understanding of JavaScript."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BHs2DwAAQBAJ",
+      "etag": "59evqkwEyds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BHs2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning Angular",
+        "subtitle": "A Hands-On Guide to Angular 2 and Angular 4",
+        "authors": [
+          "Brad Dayley",
+          "Brendan Dayley",
+          "Caleb Dayley"
+        ],
+        "publisher": "Addison-Wesley Professional",
+        "publishedDate": "2017-09-19",
+        "description": "Learning Angular, Second Edition A Hands-On Guide to Angular 2 and Angular 4 Learning Angular teaches modern application development with Angular 2 and Angular 4. It begins with the basics of Angular and the technologies and techniques used throughout the book, such as key features of TypeScript, newer ES6 syntax and concepts, and details about the tools needed to write professional Angular applications. The reader will next build an Angular application from scratch while learning about the primary pieces of an Angular application and see how they work together. Using lots of examples, the core parts of Angular will be introduced, such as Components, the Router, and Services. The book also covers techniques like server-side rendering and how to incrementally add Angular 2+ features to existing AngularJS applications. Finally, the reader will gain insight into advanced skills that should be part of any professional Angular developer’s toolkit such as testing, tooling options, and performance tuning. Understand how Angular is organized and learn best practices for designing Angular applications Quickly build Angular templates with built-in directives that enhance the user experience Bind UI elements to your data model, so changes to your model and UI occur automatically in tandem Define custom Angular directives that extend HTML Implement zoomable images, expandable lists, and other rich UI components Implement client-side services that interact with web servers Build dynamic browser views to provide even richer user interaction Create custom services you can easily reuse Implement rich UI components as custom Angular directives Contents at a Glance Introduction What is Angular Why Use Angular Who this Book is For How to Use this Book Getting the Source Code Chapter 1: Jumping into JavaScript Setting Up a JavaScript Development Environment Defining Variables Understanding JavaScript Data Types Using Operators Implementing Looping Creating Functions Understanding Variable Scope Using JavaScript Objects Manipulating Strings Working with Arrays Adding Error Handling Chapter 2: Jumping into TypeScript Learning the Different Types Understanding Interfaces Implementing Classes Implementing Modules Understanding Functions Chapter 3: Getting Started with Angular Why Angular? Understanding Angular Separation of Responsibilities Adding Angular to Your Environment Using the Angular CLI Creating a Basic Angular Application Chapter 4: Angular Components Component Configuration Building the Template Using Constructors Using External Templates Implementing Directives Chapter 5: Expressions Using Expressions Using Pipes Building a Custom Pipe Chapter 6: Data Binding Understanding Data Binding Interpolation Property Binding Attribute Binding Class Binding Style Binding Event Binding Two-Way Binding Chapter 7: Built-in Directives Understanding Directives Using Built-in Directives Structural Directives Attribute Directives Chapter 8: Custom Directives Creating a Custom Attribute Directive Creating a Custom Directive with a Component Chapter 9: Events and Change Detection Using Browser Events Emitting Custom Events Using Observables Chapter 10: Implementing Angular Services in Web Applications Understanding Angular Services Using the Built in Services Sending HTTP GET and PUT Requests with the http Service Implementing a Simple Mock Server Using the http Service Changing Views with the router Service Implementing a Router with a Navigation Bar Implementing a Router with Parameters Chapter 11: Creating Your Own Custom Angular Service Integrating Custom Services into Angular Applications Implementing a Simple Application That Uses a Constant Data Service Implementing a Data Transform Service Implementing a Variable Data Service Implementing a Service that Returns a Promise Implementing a Shared Service Chapter 12: Having Fun with Angular Implementing an Angular Application That Uses the Animation Service Implementing an Angular Application That Zooms in on Images Implementing an Angular Application That Enables Drag and Drop Implementing a Star Rating Angular Component",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780134577029"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0134577027"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BHs2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BHs2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=BHs2DwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BHs2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BHs2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 25.29,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 17.7,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BHs2DwAAQBAJ&rdid=book-BHs2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 25290000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 17700000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Learning_Angular-sample-epub.acsm?id=BHs2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Learning_Angular-sample-pdf.acsm?id=BHs2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BHs2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Understand how Angular is organized and learn best practices for designing Angular applications Quickly build Angular templates with built-in directives that enhance the user experience Bind UI elements to your data model, so changes to ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0BSOg0oHhZ0C",
+      "etag": "0LR1YEqnY4E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0BSOg0oHhZ0C",
+      "volumeInfo": {
+        "title": "Angular Momentum in Quantum Mechanics",
+        "authors": [
+          "A. R. Edmonds"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "1996",
+        "description": "This book offers a concise introduction to the angular momentum, one of the most fundamental quantities in all of quantum mechanics. Beginning with the quantization of angular momentum, spin angular momentum, and the orbital angular momentum, the author goes on to discuss the Clebsch-Gordan coefficients for a two-component system. After developing the necessary mathematics, specifically spherical tensors and tensor operators, the author then investigates the 3-j, 6-j, and 9-j symbols. Throughout, the author provides practical applications to atomic, molecular, and nuclear physics. These include partial-wave expansions, the emission and absorption of particles, the proton and electron quadrupole moment, matrix element calculation in practice, and the properties of the symmetrical top molecule.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0691025894"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780691025896"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 146,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0BSOg0oHhZ0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0BSOg0oHhZ0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=0BSOg0oHhZ0C&pg=PA12&dq=angular&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=0BSOg0oHhZ0C&dq=angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Angular_Momentum_in_Quantum_Mechanics.html?hl=&id=0BSOg0oHhZ0C"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Angular_Momentum_in_Quantum_Mechanics-sample-pdf.acsm?id=0BSOg0oHhZ0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0BSOg0oHhZ0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "L. * - 1 * -1 where r, p, and L, are the position vector with respect to 0, the linear <br>\nmomentum, and <b>angular</b> momentum respectively of the ith particle. Since the <br>\nquantum mechanical operators relating to different particles commute, we may <br>\ntake&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "u3tgDwAAQBAJ",
+      "etag": "3KMh/1xZJVU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/u3tgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learn Angular: Related Tool & Skills",
+        "authors": [
+          "Jurgen van de Moere",
+          "Florian Rappl",
+          "Ilya Bodrov-Krukowski",
+          "Jeff Smith",
+          "Michael Wanyoike",
+          "Todd Motto"
+        ],
+        "publisher": "SitePoint",
+        "publishedDate": "2018-06-15",
+        "description": "Angular is not just a framework, but rather a platform that empowers developers to build applications for the web, mobile, and the desktop. This book provides an overview of some essential Angular tools--such as Angular CLI, Angular Augary, and Sublime Text--as well as outlining some must-have TypeScript tips. This book is for all front-end developers who want to become proficient with Angular and its related tools. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781492068419"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1492068411"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=u3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=u3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=u3tgDwAAQBAJ&pg=PP1&dq=angular&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=u3tgDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u3tgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 9.89,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 6.73,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=u3tgDwAAQBAJ&rdid=book-u3tgDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 9890000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 6730000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=u3tgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book provides an overview of some essential Angular tools--such as Angular CLI, Angular Augary, and Sublime Text--as well as outlining some must-have TypeScript tips."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zYgSMSqQJGYC",
+      "etag": "Kjn5I3rqRWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zYgSMSqQJGYC",
+      "volumeInfo": {
+        "title": "Angular Momentum Calculus in Quantum Physics",
+        "authors": [
+          "Michael Danos",
+          "Vincent Gillet"
+        ],
+        "publisher": "World Scientific",
+        "publishedDate": "1990",
+        "description": "This book is concerned with the practical aspects of solving angular momentum problems. The novel but fully tested-out method (the Invariant Graph Method) allows one to write down from a single graph the complete final result of the problem. The drawing of the graph involves very few simple, essentially self-evident rules. Still it is a powerful tool to easily solve the most involved physical problems.The method is introduced step-by-step in a sequence of examples, beginning with the simplest matrix elements, and ending with the most general case of a reaction including angular distributions and correlations. The many-body and particle anti-particle systems are fully developed. All aspects: wave functions, vectors, operators, Fock space state vectors and operators, etc., are treated on the same footing. All concepts of angular momentum theory acquire a transparent meaning. Hence the book is valuable not only as a handbook in problem solving, but extremely so as an adjunct in any course on advanced qunatum physics, atomic, molecular, nuclear and particle physics.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "9810204124"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9789810204129"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 163,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zYgSMSqQJGYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zYgSMSqQJGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=zYgSMSqQJGYC&pg=PA1&dq=angular&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=zYgSMSqQJGYC&dq=angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Angular_Momentum_Calculus_in_Quantum_Phy.html?hl=&id=zYgSMSqQJGYC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zYgSMSqQJGYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "INTRODUCTION To the reader This book will teach you the skills needed to <br>\nhandle problems that both theoreticians and experimentalists may encounter in <br>\nany <b>angular</b> momentum calculations of quantum physics. You will learn to treat <br>\nthese&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oZ8L7j5OAmQC",
+      "etag": "CeNryT5xlew",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oZ8L7j5OAmQC",
+      "volumeInfo": {
+        "title": "High Angular Resolution Studies of the Structure and Evolution of Protoplanetary Disks",
+        "authors": [
+          "Joshua Eisner"
+        ],
+        "publisher": "Universal-Publishers",
+        "publishedDate": "2005",
+        "description": "Young stars are surrounded by massive, rotating disks of dust and gas, which supply a reservoir of material that may be incorporated into planets or accreted onto the central star. In this dissertation, I use high angular resolution observations at a range of wavelengths to understand the structure, ubiquity, and evolutionary timescales of protoplanetary disks. First, I describe a study of Class I protostars, objects believed to be at an evolutionary stage between collapsing spherical clouds and fully-assembled young stars surrounded by protoplanetary disks. I use a Monte Carlo radiative transfer code to model new 0.9 micron scattered light images, 1.3 mm continuum images, and broadband spectral energy distributions. This modeling shows that Class I sources are probably surrounded by massive protoplanetary disks embedded in massive infalling envelopes. For the best-fitting models of the circumstellar dust distributions, I determine several important properties, including envelope and disk masses, mass infall rates, and system inclinations, and I use these results to constrain the evolutionary stage of these objects. Second, I discuss observations of the innermost regions of more evolved disks around T Tauri and Herbig Ae/Be stars, obtained with the Palomar Testbed and Keck Interferometers. I constrain the spatial and temperature structure of the circumstellar material at sub-AU radii, and demonstrate that lower-mass stars are surrounded by inclined disks with puffed-up inner edges 0.1-1 AU from the star. In contrast, the truncated inner disks around more massive stars may not puff-up, indicating that disk structure depends on stellar properties. I discuss the implications of these results for disk accretion, terrestrial planet formation and giant planet migration. Finally, I put these detailed studies of disk structure into a broader context by constraining the mass distribution and evolutionary timescales of circumstellar disks. Using the Owens Valley Millimeter Array, I mapped the millimeter continuum emission toward >300 low-mass stars in the NGC 2024 and Orion Nebula clusters. These observations demonstrate that the average disk mass in each cluster is comparable to the \"minimum-mass protosolar nebula,\" and that there may be disk evolution on one million year timescales.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781581122800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1581122802"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oZ8L7j5OAmQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oZ8L7j5OAmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=oZ8L7j5OAmQC&pg=PA14&dq=angular&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oZ8L7j5OAmQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oZ8L7j5OAmQC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 23.71,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 16.6,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oZ8L7j5OAmQC&rdid=book-oZ8L7j5OAmQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 23710000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 16600000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/High_Angular_Resolution_Studies_of_the_S-sample-pdf.acsm?id=oZ8L7j5OAmQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oZ8L7j5OAmQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Interferometry provides a way to attain very high <b>angular</b> resolution without <br>\nbuilding a very large-aperture telescope. Small apertures separated by a <br>\nbaseline B are used to “synthesize” a larger aperture and thus obtain an <b>angular</b> <br>\nresolution&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UsxPDwAAQBAJ",
+      "etag": "mSjn62BpqV4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UsxPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "TypeScript 2.x for Angular Developers",
+        "subtitle": "Harness the capabilities of TypeScript to build cutting-edge web apps with Angular",
+        "authors": [
+          "Christian Nwamba"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-12-07",
+        "description": "Write better, reusable, and predictable Angular apps with typed logic About This Book Leverage the power of TypeScript for developing large-scale Angular apps Take advantage of the cutting-edge features of TypeScript 2.x to build high-performing, maintainable applications Explore the TypeScript implementation of modules, classes, and annotations with Angular components Who This Book Is For This book is for developers who would like to learn to use TypeScript to develop Angular applications. A basic JavaScript knowledge would be beneficial. What You Will Learn Move from loose types to predictable strict types Write self-documented API methods and data structures Understand custom generic types for complex data structures Implement Contract with Interfaces Enhance Dependency Injection in Angular via class constructors Explore TypeScript advanced types Build Interactive web apps with Angular and TypeScript In Detail TypeScript, a superset of JavaScript, is the default language for building Angular applications from Google. TypeScript 2.0 adds optional static types, classes, and modules to JavaScript, to enable great tooling and better structuring of large JavaScript applications. This book will teach you how to leverage the exciting features of TypeScript while working on Angular projects to build scalable, data-intensive web applications. You will begin by setting up and installing TypeScript and then compile it with JavaScript. You will then learn to write simple JavaScript expressions with TypeScript. You will then go through some built in TypeScript types and accessors. Further you will build web components using TypeScript Interfaces and Decorators. You will go through the Angular form module, which will enable you to write predictable typed forms with TypeScript and learn to use typed DOM events. You will also build a single-page application using the Router module. Lastly, you will consume API data with Angular's HTTP Module and handle responses with RxJS observables. At the end of the book, you will go through different testing and debugging techniques. Style and approach A step-by-step, tutorial-based guide",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786464361"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786464365"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UsxPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UsxPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=UsxPDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UsxPDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UsxPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.49,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 26.94,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UsxPDwAAQBAJ&rdid=book-UsxPDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38490000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 26940000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UsxPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Write better, reusable, and predictable Angular apps with typed logic About This Book Leverage the power of TypeScript for developing large-scale Angular apps Take advantage of the cutting-edge features of TypeScript 2.x to build high ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "js2P_8lbR2wC",
+      "etag": "OCKYmf7ksPU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/js2P_8lbR2wC",
+      "volumeInfo": {
+        "title": "Fundamentals of Biomechanics",
+        "authors": [
+          "Duane V. Knudson"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2003",
+        "description": "Fundamentals of Biomechanics introduces the exciting world of how human movement is created and how it can be improved. Teachers, coaches and physical therapists all use biomechanics to help people improve movement and decrease the risk of injury. The book presents a comprehensive review of the major concepts of biomechanics and summarizes them in nine principles of biomechanics. Fundamentals of Biomechanics concludes by showing how these principles can be used by movement professionals to improve human movement. Specific case studies are presented in physical education, coaching, strength and conditioning, and sports medicine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0306474743"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780306474743"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 310,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=js2P_8lbR2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=js2P_8lbR2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=js2P_8lbR2wC&pg=PA121&dq=angular&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=js2P_8lbR2wC&dq=angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Biomechanics.html?hl=&id=js2P_8lbR2wC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Fundamentals_of_Biomechanics-sample-pdf.acsm?id=js2P_8lbR2wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=js2P_8lbR2wC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The <b>angular</b> velocities of joints are particularly relevant in biomechanics, <br>\nbecause they represent the <b>angular</b> speed of anatomical motions. If relative <br>\nangles are calculated between anatomical segments, the <b>angular</b> velocities <br>\ncalculated can&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WMxPDwAAQBAJ",
+      "etag": "rNiuFdCnqo8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WMxPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Learning Angular",
+        "subtitle": "A no-nonsense guide to building real-world apps with Angular 5",
+        "authors": [
+          "Christoffer Noring",
+          "Pablo Deeleman"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-12-08",
+        "description": "Build modern SPAs by learning the latest and powerful features of Angular 5 and TypeScript 2.x About This Book The best overview of Angular 5 on the market, this guide gathers together everything there is to know about Angular 5 and groups it into intuitive sections. Learn to build, grow and test powerful and scalable mobile and desktop web applications with Angular Explore the latest features of Angular 5 and TypeScript 2.4 by building a complete responsive application from scratch. Deliver seamless web navigation experiences with application routing and state handling common features with ease The author has done all the hard work of fitting everything Angular 5 means for developers, making this book the quickest way to learn Angular 5 from scratch. Who This Book Is For This book is for web developers who want to build the next generation of state-of-the-art mobile and desktop web applications with Angular. This book does not require you to have prior exposure to either Angular 1.x, 2 or 4, although comprehensive knowledge of JavaScript is assumed. What You Will Learn Set up the workspace and the project using webpack and Angular-Cli Explore the features of TypeScript and organize the code in ES6 modules Work with HTTP and Data Services and understand how data can flow in the app Create multiple views and learn how to navigate between them Make the app beautiful by adding Material Design Implement two different types of form handling and its validation Add animation to some standard events such as route change, initialization, data load, and so on Discover how to bulletproof your applications by introducing smart unit testing techniques and debugging tools In Detail The latest version of Angular comes with a lot of new features that help you to make your applications smaller and faster. This book will show you how to set up an Angular project, and you'll build Angular components right from the beginning. Moving on, you'll explore and work with the components to build your app. Next, you'll find out more about TypeScript and see how to use it to build apps in the best way possible. You'll then be introduced to the building blocks - Properties, Events, Directives, and Pipes - and how it can be used to implement and enhance the components. Additionally, you'll be using Angular components to organize your components in a scalable way. Then you'll understand how to get data in your app and add navigation to it. Furthermore, you'll deep dive and work with Forms, Authentication, and see how Material design will help you make your app beautiful in just a few short lines of code. Lastly, you'll see how to use animating components with Angular, and test and debug the app. All in all, the overall mission is to give you a great start when developing apps using Angular and TypeScript. Style and approach This book tells you everything there is to know about getting well-acquainted with Angular without bogging you down. Everything is neatly laid out under clear headings for quick consultation, giving you the information required to understand a concept immediately. You'll also get full coverage of the TypeScript syntax required to follow the examples included.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787125940"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787125947"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 456,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WMxPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WMxPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=WMxPDwAAQBAJ&pg=PA315&dq=angular&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WMxPDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMxPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 38.49,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 26.94,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WMxPDwAAQBAJ&rdid=book-WMxPDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 38490000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 26940000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WMxPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A no-nonsense guide to building real-world apps with <b>Angular</b> 5 Christoffer <br>\nNoring, Pablo Deeleman. Of course, by itself a design language isn&#39;t that <br>\ninteresting, at least not for a developer, which brings us to our next section on the <br>\nfact that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xeZDDwAAQBAJ",
+      "etag": "X1+k0uhZjFw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xeZDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Expert Angular",
+        "authors": [
+          "Mathieu Nayrolles",
+          "Rajesh Gunasundaram",
+          "Sridhar Rao"
+        ],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2017-07-31",
+        "description": "Learn everything you need to build highly scalable, robust web applications using Angular release 4 About This Book Apply best practices and design patterns to achieve higher scalability in your Angular applications Understand the latest features of Angular and create your own components Get acquainted with powerful, advanced techniques in Angular to build professional web applications Who This Book Is For This book is for JavaScript developers with some prior exposure to Angular, at least through basic examples. We assume that you've got working knowledge of HTML, CSS, and JavaScript. What You Will Learn Implement asynchronous programming using Angular Beautify your application with the UI components built to the material design specification Secure your web application from unauthorized users Create complex forms, taking full advantage of 2-way data binding Test your Angular applications using the Jasmine and Protractor frameworks for better efficiency Learn how to integrate Angular with Bootstrap to create compelling web applications Use Angular built-in classes to apply animation in your app In Detail Got some experience of Angular under your belt? Want to learn everything about using advanced features for developing websites? This book is everything you need for the deep understanding of Angular that will set you apart from the developer crowd. Angular has introduced a new way to build applications. Creating complex and rich web applications, with a lighter resource footprint, has never been easier or faster. Angular is now at release 4, with significant changes through previous versions. This book has been written and tested for Angular release 4. Angular is a mature technology, and you'll likely have applications built with earlier versions. This book starts by showing you best practices and approaches to migrating your existing Angular applications so that you can be immediately up-to-date. You will take an in-depth look at components and see how to control the user journey in your applications by implementing routing and navigation. You will learn how to work with asynchronous programming by using Observables. To easily build applications that look great, you will learn all about template syntax and how to beautify applications with Material Design. Mastering forms and data binding will further speed up your application development time. Learning about managing services and animations will help you to progressively enhance your applications. Next you'll use native directives to integrate Bootstrap with Angular. You will see the best ways to test your application with the leading options such as Jasmine and Protractor. At the end of the book, you'll learn how to apply design patterns in Angular, and see the benefits they will bring to your development. Style and approach This book provides comprehensive coverage of all aspects of development with Angular. You will learn about all the most powerful Angular concepts, with examples and best practices. This book is everything you need for the deep understanding of Angular that will set you apart from the developer crowd.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781785887765"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1785887769"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 454,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xeZDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xeZDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=xeZDDwAAQBAJ&pg=PA46&dq=angular&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xeZDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xeZDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 41.79,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 29.25,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xeZDDwAAQBAJ&rdid=book-xeZDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 41790000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 29250000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xeZDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We all know <b>Angular</b> has had loads of improvements and has been designed <br>\nfrom scratch. So, one of the most bugging questions among the <b>Angular</b> <br>\ndevelopers is how can we migrate existing <b>AngularJS</b> applications into <b>Angular</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PrOKEcZXJ58C",
+      "etag": "S9VYm4qRVT0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PrOKEcZXJ58C",
+      "volumeInfo": {
+        "title": "Biomechanics of Sport and Exercise",
+        "authors": [
+          "Peter Merton McGinnis"
+        ],
+        "publisher": "Human Kinetics",
+        "publishedDate": "2005",
+        "description": "Biomechanics of Sport and Exercise, Second Edition, introduces exercise and sport biomechanics in concise terms rather than focusing on complex math and physics. This book helps students learn to appreciate external forces and their effects, how the body generates forces to maintain position, and how forces create movement in physical activities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0736051015"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780736051019"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 411,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PrOKEcZXJ58C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PrOKEcZXJ58C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=PrOKEcZXJ58C&pg=PA189&dq=angular&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.fi/books?id=PrOKEcZXJ58C&dq=angular&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Biomechanics_of_Sport_and_Exercise.html?hl=&id=PrOKEcZXJ58C"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PrOKEcZXJ58C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The basics of <b>angular</b> kinetics, the causes of <b>angular</b> motion, are explained by <br>\n<b>angular</b> interpretations of Newton&#39;s laws of motion. <b>Angular</b> analogs of inertia and <br>\nmomentum must be understood to make these interpretations. <b>Angular</b> inertia&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0NMjkQnQN6oC",
+      "etag": "kIwg/S4ucPI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0NMjkQnQN6oC",
+      "volumeInfo": {
+        "title": "Angular Momentum",
+        "subtitle": "An Illustrated Guide to Rotational Symmetries for Physical Systems",
+        "authors": [
+          "William J. Thompson"
+        ],
+        "publisher": "John Wiley & Sons",
+        "publishedDate": "2008-09-26",
+        "description": "Develops angular momentum theory in a pedagogically consistent way, starting from the geometrical concept of rotational invariance. Uses modern notation and terminology in an algebraic approach to derivations. Each chapter includes examples of applications of angular momentum theory to subjects of current interest and to demonstrate the connections between various scientific fields which are provided through rotations. Includes Mathematica and C language programs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783527617838"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3527617833"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 475,
+        "printType": "BOOK",
+        "categories": [
+          "Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.8.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0NMjkQnQN6oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0NMjkQnQN6oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.fi/books?id=0NMjkQnQN6oC&pg=PA122&dq=angular&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0NMjkQnQN6oC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0NMjkQnQN6oC"
+      },
+      "saleInfo": {
+        "country": "FI",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 97.99,
+          "currencyCode": "EUR"
+        },
+        "retailPrice": {
+          "amount": 97.99,
+          "currencyCode": "EUR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0NMjkQnQN6oC&rdid=book-0NMjkQnQN6oC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 97990000,
+              "currencyCode": "EUR"
+            },
+            "retailPrice": {
+              "amountInMicros": 97990000,
+              "currencyCode": "EUR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "FI",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.fi/books/download/Angular_Momentum-sample-pdf.acsm?id=0NMjkQnQN6oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0NMjkQnQN6oC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Consider now <b>angular</b> momentum defined as in classical mechanics, LC = rx p, <br>\nand write for its magnitude LC = [C h , in which EC is a pure number because it <br>\nhas units of <b>angular</b> momentum. We call LC dynamical <b>angular</b> momentum."
+      }
+    }
+  ]
+}
