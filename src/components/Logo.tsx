@@ -1,9 +1,9 @@
 import React from 'react';
-import { Heading } from '@chakra-ui/core';
+import { Heading, HeadingProps } from '@chakra-ui/core';
 
-export function Logo() {
+export function Logo({ size = 'lg', ...rest }: HeadingProps) {
   return (
-    <Heading as='a' fontSize='lg' fontWeight='bold' color='gray.500'>
+    <Heading as='a' size={size} fontWeight='bold' color='gray.500' {...rest}>
       favbook
     </Heading>
   );

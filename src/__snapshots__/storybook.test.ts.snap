@@ -5,7 +5,7 @@ exports[`Storyshots BookItem Default 1`] = `
   className="css-1kcrdz9"
 >
   <div
-    className="css-1coa9a2"
+    className="css-pe2l9u"
   >
     <img
       alt=""
@@ -65,7 +65,7 @@ exports[`Storyshots BookItem Loading 1`] = `
   className="css-1kcrdz9"
 >
   <div
-    className="css-1coa9a2"
+    className="css-pe2l9u"
   />
   <div
     className="css-1ezsse0"
@@ -95,7 +95,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -157,7 +157,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -188,7 +188,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -219,7 +219,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -250,7 +250,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -281,7 +281,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -318,7 +318,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -374,7 +374,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -405,7 +405,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -442,7 +442,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -479,7 +479,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -510,7 +510,7 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       >
         <img
           alt=""
@@ -547,7 +547,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -571,7 +571,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -595,7 +595,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -619,7 +619,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -643,7 +643,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -667,7 +667,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -691,7 +691,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -715,7 +715,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -739,7 +739,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -763,7 +763,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -787,7 +787,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -811,7 +811,7 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-1coa9a2"
+        className="css-pe2l9u"
       />
       <div
         className="css-1ezsse0"
@@ -836,15 +836,15 @@ exports[`Storyshots Pages/Books Idle 1`] = `
   className="css-1h5u2ui"
 >
   <div
-    className="css-ay2h26"
+    className="css-1eofdow"
   >
     <a
-      className="css-1jcjtoe"
+      className="css-7kntnf"
     >
       favbook
     </a>
     <div
-      className="css-u271h6"
+      className="css-80u08u"
     >
       <form
         className="css-kjafn5"
@@ -891,15 +891,15 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
   className="css-1h5u2ui"
 >
   <div
-    className="css-ay2h26"
+    className="css-jfx3a"
   >
     <a
-      className="css-1jcjtoe"
+      className="css-1iuyfm8"
     >
       favbook
     </a>
     <div
-      className="css-u271h6"
+      className="css-80u08u"
     >
       <form
         className="css-kjafn5"
@@ -952,7 +952,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1014,7 +1014,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1045,7 +1045,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1076,7 +1076,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1107,7 +1107,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1138,7 +1138,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1175,7 +1175,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1231,7 +1231,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1262,7 +1262,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1299,7 +1299,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1336,7 +1336,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1367,7 +1367,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             >
               <img
                 alt=""
@@ -1401,15 +1401,15 @@ exports[`Storyshots Pages/Books Loading 1`] = `
   className="css-1h5u2ui"
 >
   <div
-    className="css-ay2h26"
+    className="css-jfx3a"
   >
     <a
-      className="css-1jcjtoe"
+      className="css-1iuyfm8"
     >
       favbook
     </a>
     <div
-      className="css-u271h6"
+      className="css-80u08u"
     >
       <form
         className="css-kjafn5"
@@ -1465,7 +1465,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1489,7 +1489,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1513,7 +1513,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1537,7 +1537,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1561,7 +1561,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1585,7 +1585,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1609,7 +1609,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1633,7 +1633,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1657,7 +1657,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1681,7 +1681,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1705,7 +1705,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1729,7 +1729,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-1coa9a2"
+              className="css-pe2l9u"
             />
             <div
               className="css-1ezsse0"
@@ -1757,15 +1757,15 @@ exports[`Storyshots Pages/Books No Results 1`] = `
   className="css-1h5u2ui"
 >
   <div
-    className="css-ay2h26"
+    className="css-jfx3a"
   >
     <a
-      className="css-1jcjtoe"
+      className="css-1iuyfm8"
     >
       favbook
     </a>
     <div
-      className="css-u271h6"
+      className="css-80u08u"
     >
       <form
         className="css-kjafn5"
@@ -1830,61 +1830,6 @@ exports[`Storyshots Pages/Books No Results 1`] = `
       </div>
     </div>
   </main>
-</div>
-`;
-
-exports[`Storyshots Pages/Home Default 1`] = `
-<div
-  className="css-1h5u2ui"
->
-  <div
-    className="css-ay2h26"
-  >
-    <a
-      className="css-1jcjtoe"
-    >
-      favbook
-    </a>
-    <div
-      className="css-u271h6"
-    >
-      <form
-        className="css-kjafn5"
-        onSubmit={[Function]}
-      >
-        <input
-          className="css-1ohh5ys"
-          onChange={[Function]}
-          placeholder="Search"
-        />
-        <div
-          className="css-mczi6p"
-        >
-          <button
-            aria-label="Search"
-            className="css-12ol5rm"
-            type="submit"
-          >
-            <svg
-              aria-hidden={true}
-              className="css-1im46kq"
-              focusable="false"
-              role="presentation"
-              viewBox="0 0 24 24"
-            >
-              <path
-                d="M23.384,21.619,16.855,15.09a9.284,9.284,0,1,0-1.768,1.768l6.529,6.529a1.266,1.266,0,0,0,1.768,0A1.251,1.251,0,0,0,23.384,21.619ZM2.75,9.5a6.75,6.75,0,1,1,6.75,6.75A6.758,6.758,0,0,1,2.75,9.5Z"
-                fill="currentColor"
-              />
-            </svg>
-          </button>
-        </div>
-      </form>
-    </div>
-  </div>
-  <main
-    className="css-0"
-  />
 </div>
 `;
 

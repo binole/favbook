@@ -16,6 +16,7 @@ export function BookItem({ book }: Props) {
     >
       <Box
         width={80}
+        minW={80}
         minH={104}
         bg='gray.200'
         boxShadow='0 4px 8px rgba(0,0,0,0.08)'

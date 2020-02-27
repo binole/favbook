@@ -27,7 +27,14 @@ export function BooksPage({
   }
 
   return (
-    <Layout header={<Header search={<SearchForm onSearch={onLoadBooks} />} />}>
+    <Layout
+      header={
+        <Header
+          fullScreen={status === 'idle'}
+          search={<SearchForm onSearch={onLoadBooks} />}
+        />
+      }
+    >
       {status !== 'idle' && (
         <Box py={{ md: 4 }} mx='auto'>
           <BookList books={books} />
