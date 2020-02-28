@@ -844,7 +844,7 @@ exports[`Storyshots BooksPage Idle 1`] = `
       favbook
     </a>
     <div
-      className="css-80u08u"
+      className="css-101p9t7"
     >
       <form
         className="css-kjafn5"
@@ -907,7 +907,7 @@ exports[`Storyshots BooksPage Loaded 1`] = `
       favbook
     </a>
     <div
-      className="css-80u08u"
+      className="css-47wyri"
     >
       <form
         className="css-kjafn5"
@@ -1417,7 +1417,7 @@ exports[`Storyshots BooksPage Loading 1`] = `
       favbook
     </a>
     <div
-      className="css-80u08u"
+      className="css-47wyri"
     >
       <form
         className="css-kjafn5"
@@ -1773,7 +1773,7 @@ exports[`Storyshots BooksPage No Results 1`] = `
       favbook
     </a>
     <div
-      className="css-80u08u"
+      className="css-47wyri"
     >
       <form
         className="css-kjafn5"
