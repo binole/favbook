@@ -1,6 +1,6 @@
 import React from 'react';
 import { BookItem } from './BookItem';
-import { Volume } from '../domain/Volume';
+import { Volume } from '../domain/VolumesDTO';
 import { List, ListItem } from '@chakra-ui/core';
 
 type Props = {

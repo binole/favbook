@@ -831,7 +831,7 @@ exports[`Storyshots BookList Loading 1`] = `
 </ul>
 `;
 
-exports[`Storyshots Pages/Books Idle 1`] = `
+exports[`Storyshots BooksPage Idle 1`] = `
 <div
   className="css-1h5u2ui"
 >
@@ -882,11 +882,19 @@ exports[`Storyshots Pages/Books Idle 1`] = `
   </div>
   <main
     className="css-0"
-  />
+  >
+    <div
+      className="css-ps5qvu"
+    >
+      <ul
+        className="css-1ejed6n"
+      />
+    </div>
+  </main>
 </div>
 `;
 
-exports[`Storyshots Pages/Books Loaded 1`] = `
+exports[`Storyshots BooksPage Loaded 1`] = `
 <div
   className="css-1h5u2ui"
 >
@@ -1396,7 +1404,7 @@ exports[`Storyshots Pages/Books Loaded 1`] = `
 </div>
 `;
 
-exports[`Storyshots Pages/Books Loading 1`] = `
+exports[`Storyshots BooksPage Loading 1`] = `
 <div
   className="css-1h5u2ui"
 >
@@ -1752,7 +1760,7 @@ exports[`Storyshots Pages/Books Loading 1`] = `
 </div>
 `;
 
-exports[`Storyshots Pages/Books No Results 1`] = `
+exports[`Storyshots BooksPage No Results 1`] = `
 <div
   className="css-1h5u2ui"
 >

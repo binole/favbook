@@ -4,26 +4,25 @@ import { BooksPage } from '../pages/books';
 import { action } from '@storybook/addon-actions';
 
 export default {
-  title: 'Pages/Books',
+  title: 'BooksPage',
   component: BooksPage
 };
 
-export const Idle = () => (
-  <BooksPage status='idle' books={[]} loadBooks={action('onLoadBooks')} />
-);
+const actions = {
+  search: action('search'),
+  loadMore: action('loadMore')
+};
+
+export const Idle = () => <BooksPage status='idle' books={[]} {...actions} />;
 
 export const Loading = () => (
-  <BooksPage status='loading' books={[]} loadBooks={action('onLoadBooks')} />
+  <BooksPage status='loading' books={[]} {...actions} />
 );
 
 export const Loaded = () => (
-  <BooksPage
-    status='loaded'
-    books={books.items}
-    loadBooks={action('onLoadBooks')}
-  />
+  <BooksPage status='loaded' books={books.items} {...actions} />
 );
 
 export const NoResults = () => (
-  <BooksPage status='loaded' books={[]} loadBooks={action('onLoadBooks')} />
+  <BooksPage status='empty' books={[]} {...actions} />
 );
