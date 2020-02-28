@@ -3,60 +3,50 @@ import { Box } from '@chakra-ui/core';
 import { Layout } from '../components/Layout';
 import { Button } from '../components/Button';
 import { BookList } from '../components/BookList';
-import { withBookStore, BookStore } from '../containers/BookStore';
 import { Header } from '../components/Header';
 import { SearchForm } from '../components/SearchForm';
 import { Empty } from '../components/Empty';
+import { BookService, useBookService } from '../services/useBookService';
 import BookNotFoundSrc from '../images/book-not-found.svg';
 
-export function BooksPage({
-  nextIndex = 0,
-  status,
-  books,
-  loadBooks
-}: BookStore) {
-  const [q, setQ] = React.useState('');
+export default function BooksContainer() {
+  const [state, actions] = useBookService();
 
-  function onLoadBooks(q: string) {
-    setQ(q);
-    loadBooks({ q });
-  }
+  return <BooksPage {...state} {...actions} />;
+}
 
-  function onLoadMore() {
-    loadBooks({ q, startIndex: nextIndex });
-  }
-
+export function BooksPage({ status, books, search, loadMore }: BookService) {
   return (
     <Layout
       header={
         <Header
           fullScreen={status === 'idle'}
-          search={<SearchForm onSearch={onLoadBooks} />}
+          search={<SearchForm onSearch={search} />}
         />
       }
     >
-      {status !== 'idle' && (
-        <Box py={{ md: 4 }} mx='auto'>
-          <BookList books={books} />
-          {status === 'loading' && <BookList data-testid='book-loading' />}
-          {status === 'loaded' && books.length === 0 && (
-            <Empty
-              image={BookNotFoundSrc}
-              heading='Books not found!'
-              description='No results containing all your search terms were found. Please try another keywords.'
-            />
-          )}
-          {status === 'loaded' && nextIndex > 0 && (
-            <Box textAlign='center' py={2}>
-              <Button fontWeight='normal' onClick={onLoadMore}>
-                View more books
-              </Button>
-            </Box>
-          )}
-        </Box>
-      )}
+      <Box py={{ md: 4 }} mx='auto'>
+        <BookList books={books} />
+        {status === 'loading' && <BookList data-testid='book-loading' />}
+        {status === 'empty' && (
+          <Empty
+            image={BookNotFoundSrc}
+            heading='Books not found!'
+            description='No results containing all your search terms were found. Please try another keywords.'
+          />
+        )}
+        {status === 'hasMore' && (
+          <Box textAlign='center' py={4}>
+            <Button
+              fontWeight='normal'
+              rightIcon='chevron-down'
+              onClick={loadMore}
+            >
+              More results
+            </Button>
+          </Box>
+        )}
+      </Box>
     </Layout>
   );
 }
-
-export default withBookStore(BooksPage);

@@ -26,7 +26,7 @@ export function Header({ fullScreen, search }: Props) {
         mt={fullScreen ? 120 : 0}
         mb={fullScreen ? 6 : 0}
       />
-      <Box ml={6} mr={6} w='100%' maxW={560}>
+      <Box ml={fullScreen ? 0 : 6} w='100%' maxW={560}>
         {search}
       </Box>
     </Flex>

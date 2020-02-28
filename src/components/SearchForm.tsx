@@ -16,6 +16,7 @@ export function SearchForm({
   ...rest
 }: Props & Partial<InputGroupProps>) {
   const [term, setTerm] = React.useState('');
+  const inputRef = React.createRef<HTMLInputElement>();
 
   const handleChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setTerm(event.target.value);
@@ -23,7 +24,7 @@ export function SearchForm({
 
   const handleSubmit = (event: React.FormEvent) => {
     event.preventDefault();
-
+    inputRef?.current?.blur();
     onSearch && onSearch(term.trim());
   };
 
@@ -33,6 +34,7 @@ export function SearchForm({
         placeholder='Search'
         variant='filled'
         borderRadius={24}
+        ref={inputRef}
         onChange={handleChange}
       />
       <InputRightElement>
