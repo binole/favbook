@@ -36,9 +36,13 @@ export function BooksPage({ status, books, search, loadMore }: BookService) {
           />
         )}
         {status === 'hasMore' && (
-          <Box textAlign='center' py={2}>
-            <Button fontWeight='normal' onClick={loadMore}>
-              View more books
+          <Box textAlign='center' py={4}>
+            <Button
+              fontWeight='normal'
+              rightIcon='chevron-down'
+              onClick={loadMore}
+            >
+              More results
             </Button>
           </Box>
         )}
