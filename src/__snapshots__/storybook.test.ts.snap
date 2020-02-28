@@ -5,26 +5,23 @@ exports[`Storyshots BookItem Default 1`] = `
   className="css-1kcrdz9"
 >
   <div
-    className="css-pe2l9u"
+    className="css-p0qa9v"
   >
     <img
       alt=""
-      className="css-17eao0m"
+      className="css-1e33sef"
     />
   </div>
   <div
     className="css-1ezsse0"
   >
     <h3
-      className="css-1lf0679"
+      className="css-1xf94ta"
     >
-      Learning React
-      : 
-      <p
-        className="css-a1igtn"
-      >
-        Functional Web Development with React and Redux
-      </p>
+      <strong>
+        Learning React
+      </strong>
+      : Functional Web Development with React and Redux
     </h3>
     <p
       className="css-5k86z4"
@@ -65,13 +62,13 @@ exports[`Storyshots BookItem Loading 1`] = `
   className="css-1kcrdz9"
 >
   <div
-    className="css-pe2l9u"
+    className="css-p0qa9v"
   />
   <div
     className="css-1ezsse0"
   >
     <div
-      className="css-ryugut"
+      className="css-1kppp1y"
     />
     <div
       className="css-g7qeeo"
@@ -95,26 +92,23 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          Learning React
-          : 
-          <p
-            className="css-a1igtn"
-          >
-            Functional Web Development with React and Redux
-          </p>
+          <strong>
+            Learning React
+          </strong>
+          : Functional Web Development with React and Redux
         </h3>
         <p
           className="css-5k86z4"
@@ -157,20 +151,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          Mastering React
+          <strong>
+            Mastering React
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -188,20 +184,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          React.js Essentials
+          <strong>
+            React.js Essentials
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -219,20 +217,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          Mastering React Native
+          <strong>
+            Mastering React Native
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -250,20 +250,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          Introduction to React
+          <strong>
+            Introduction to React
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -281,26 +283,23 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          React Projects
-          : 
-          <p
-            className="css-a1igtn"
-          >
-            Build 12 real-world applications from scratch using React, React Native, and React 360
-          </p>
+          <strong>
+            React Projects
+          </strong>
+          : Build 12 real-world applications from scratch using React, React Native, and React 360
         </h3>
         <p
           className="css-5k86z4"
@@ -318,20 +317,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          React
+          <strong>
+            React
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -374,20 +375,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          REACT
+          <strong>
+            REACT
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -405,26 +408,23 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          Designing Applications with Spring Boot 2.2 and React JS
-          : 
-          <p
-            className="css-a1igtn"
-          >
-            Step-by-step guide to design and develop intuitive full stack web applications
-          </p>
+          <strong>
+            Designing Applications with Spring Boot 2.2 and React JS
+          </strong>
+          : Step-by-step guide to design and develop intuitive full stack web applications
         </h3>
         <p
           className="css-5k86z4"
@@ -442,26 +442,23 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          React Native for Mobile Development
-          : 
-          <p
-            className="css-a1igtn"
-          >
-            Harness the Power of React Native to Create Stunning iOS and Android Applications
-          </p>
+          <strong>
+            React Native for Mobile Development
+          </strong>
+          : Harness the Power of React Native to Create Stunning iOS and Android Applications
         </h3>
         <p
           className="css-5k86z4"
@@ -479,20 +476,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          The Must-React System
+          <strong>
+            The Must-React System
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -510,20 +509,22 @@ exports[`Storyshots BookList Loaded 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       >
         <img
           alt=""
-          className="css-17eao0m"
+          className="css-1e33sef"
         />
       </div>
       <div
         className="css-1ezsse0"
       >
         <h3
-          className="css-1lf0679"
+          className="css-1xf94ta"
         >
-          Think, Act, Stay Safe with the R.E.A.C.T Approach to Self Defence
+          <strong>
+            Think, Act, Stay Safe with the R.E.A.C.T Approach to Self Defence
+          </strong>
         </h3>
         <p
           className="css-5k86z4"
@@ -547,13 +548,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -571,13 +572,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -595,13 +596,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -619,13 +620,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -643,13 +644,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -667,13 +668,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -691,13 +692,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -715,13 +716,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -739,13 +740,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -763,13 +764,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -787,13 +788,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -811,13 +812,13 @@ exports[`Storyshots BookList Loading 1`] = `
       className="css-1kcrdz9"
     >
       <div
-        className="css-pe2l9u"
+        className="css-p0qa9v"
       />
       <div
         className="css-1ezsse0"
       >
         <div
-          className="css-ryugut"
+          className="css-1kppp1y"
         />
         <div
           className="css-g7qeeo"
@@ -960,26 +961,23 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                Learning React
-                : 
-                <p
-                  className="css-a1igtn"
-                >
-                  Functional Web Development with React and Redux
-                </p>
+                <strong>
+                  Learning React
+                </strong>
+                : Functional Web Development with React and Redux
               </h3>
               <p
                 className="css-5k86z4"
@@ -1022,20 +1020,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                Mastering React
+                <strong>
+                  Mastering React
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1053,20 +1053,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                React.js Essentials
+                <strong>
+                  React.js Essentials
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1084,20 +1086,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                Mastering React Native
+                <strong>
+                  Mastering React Native
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1115,20 +1119,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                Introduction to React
+                <strong>
+                  Introduction to React
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1146,26 +1152,23 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                React Projects
-                : 
-                <p
-                  className="css-a1igtn"
-                >
-                  Build 12 real-world applications from scratch using React, React Native, and React 360
-                </p>
+                <strong>
+                  React Projects
+                </strong>
+                : Build 12 real-world applications from scratch using React, React Native, and React 360
               </h3>
               <p
                 className="css-5k86z4"
@@ -1183,20 +1186,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                React
+                <strong>
+                  React
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1239,20 +1244,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                REACT
+                <strong>
+                  REACT
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1270,26 +1277,23 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                Designing Applications with Spring Boot 2.2 and React JS
-                : 
-                <p
-                  className="css-a1igtn"
-                >
-                  Step-by-step guide to design and develop intuitive full stack web applications
-                </p>
+                <strong>
+                  Designing Applications with Spring Boot 2.2 and React JS
+                </strong>
+                : Step-by-step guide to design and develop intuitive full stack web applications
               </h3>
               <p
                 className="css-5k86z4"
@@ -1307,26 +1311,23 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                React Native for Mobile Development
-                : 
-                <p
-                  className="css-a1igtn"
-                >
-                  Harness the Power of React Native to Create Stunning iOS and Android Applications
-                </p>
+                <strong>
+                  React Native for Mobile Development
+                </strong>
+                : Harness the Power of React Native to Create Stunning iOS and Android Applications
               </h3>
               <p
                 className="css-5k86z4"
@@ -1344,20 +1345,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                The Must-React System
+                <strong>
+                  The Must-React System
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1375,20 +1378,22 @@ exports[`Storyshots BooksPage Loaded 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             >
               <img
                 alt=""
-                className="css-17eao0m"
+                className="css-1e33sef"
               />
             </div>
             <div
               className="css-1ezsse0"
             >
               <h3
-                className="css-1lf0679"
+                className="css-1xf94ta"
               >
-                Think, Act, Stay Safe with the R.E.A.C.T Approach to Self Defence
+                <strong>
+                  Think, Act, Stay Safe with the R.E.A.C.T Approach to Self Defence
+                </strong>
               </h3>
               <p
                 className="css-5k86z4"
@@ -1473,13 +1478,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1497,13 +1502,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1521,13 +1526,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1545,13 +1550,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1569,13 +1574,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1593,13 +1598,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1617,13 +1622,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1641,13 +1646,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1665,13 +1670,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1689,13 +1694,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1713,13 +1718,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"
@@ -1737,13 +1742,13 @@ exports[`Storyshots BooksPage Loading 1`] = `
             className="css-1kcrdz9"
           >
             <div
-              className="css-pe2l9u"
+              className="css-p0qa9v"
             />
             <div
               className="css-1ezsse0"
             >
               <div
-                className="css-ryugut"
+                className="css-1kppp1y"
               />
               <div
                 className="css-g7qeeo"

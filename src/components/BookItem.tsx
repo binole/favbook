@@ -1,5 +1,5 @@
 import React from 'react';
-import { Box, Image, Flex, Heading, Text, Icon, Stack } from '@chakra-ui/core';
+import { Box, Image, Flex, Text, Icon, Stack } from '@chakra-ui/core';
 import { Book } from '../domain/Book';
 import { Skeleton } from './Skeleton';
 
@@ -15,15 +15,22 @@ export function BookItem({ book }: Props) {
       p={4}
     >
       <Box
-        width={80}
-        minW={80}
-        minH={104}
+        width={{ base: '64px', sm: '80px', md: 'auto' }}
+        height={{ base: 'auto', md: '160px' }}
+        minW={{ base: '64px', md: '120px' }}
+        minH={{ base: '80px' }}
         bg='gray.200'
         boxShadow='0 4px 8px rgba(0,0,0,0.08)'
         borderRadius='md'
       >
         {book?.thumbnail && (
-          <Image src={book?.thumbnail} alt='' borderRadius='md' />
+          <Image
+            src={book?.thumbnail}
+            alt=''
+            borderRadius='md'
+            maxW={{ base: '100%', md: 'none' }}
+            maxH={{ base: 'none', md: '100%' }}
+          />
         )}
       </Box>
       <Flex
@@ -37,22 +44,10 @@ export function BookItem({ book }: Props) {
       >
         {book ? (
           <>
-            <Heading as='h3' size='sm' color='gray.700'>
-              {book?.title}
-              {book?.subtitle && (
-                <>
-                  {': '}
-                  <Text
-                    size='sm'
-                    fontWeight='normal'
-                    color='gray.700'
-                    display='inline'
-                  >
-                    {book.subtitle}
-                  </Text>
-                </>
-              )}
-            </Heading>
+            <Text as='h3' fontSize='sm' color='gray.700' w='100%'>
+              <strong>{book?.title}</strong>
+              {book?.subtitle && `: ${book.subtitle}`}
+            </Text>
             <Text fontSize='sm' color='gray.500'>
               {book?.authors?.join(', ')}
             </Text>
@@ -71,7 +66,7 @@ export function BookItem({ book }: Props) {
           </>
         ) : (
           <>
-            <Skeleton width='100%' maxWidth={240} />
+            <Skeleton width='100%' maxWidth={360} />
             <Skeleton maxWidth={200} />
             <Skeleton maxWidth={200} />
           </>
