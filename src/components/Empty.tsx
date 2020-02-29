@@ -13,13 +13,12 @@ export function Empty({ image, heading, description }: Props) {
       <Image src={image} alt='' height={100} mx='auto' />
       {heading && (
         <Heading fontSize='md' mt={6} mb={2}>
-          Books not found!
+          {heading}
         </Heading>
       )}
       {description && (
         <Text fontSize='sm' color='gray.500'>
-          No results containing all your search terms were found. Please try
-          another keywords.
+          {description}
         </Text>
       )}
     </Box>

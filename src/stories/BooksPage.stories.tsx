@@ -26,3 +26,5 @@ export const Loaded = () => (
 export const NoResults = () => (
   <BooksPage status='empty' books={[]} {...actions} />
 );
+
+export const Error = () => <BooksPage status='error' books={[]} {...actions} />;
