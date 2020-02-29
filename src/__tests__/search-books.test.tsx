@@ -29,6 +29,28 @@ it('should not fetch when search empty term', async () => {
   expect(mockedAxios.get).not.toHaveBeenCalled();
 });
 
+it('should show empty when no results', async () => {
+  const _ = setup();
+
+  mockedAxios.get.mockResolvedValueOnce({
+    data: { totalItems: 0 }
+  });
+
+  await _.searchFor('react');
+
+  expect(_.queryByText(/not found/)).toBeInTheDocument();
+});
+
+it('should alert when failed', async () => {
+  const _ = setup();
+
+  mockedAxios.get.mockRejectedValue(new Error('Something went wrong'));
+
+  await _.searchFor('react');
+
+  expect(_.queryByText(/something went wrong/i)).toBeInTheDocument();
+});
+
 it('should not show load more when no more results', async () => {
   const _ = setup();
   const data = require('../__fixtures__/volumes/q=react&startIndex=0&maxResults=12.json');
@@ -40,18 +62,6 @@ it('should not show load more when no more results', async () => {
   await _.searchFor('react');
 
   expect(_.queryByText(/more/i)).not.toBeInTheDocument();
-});
-
-it('should show empty when no results', async () => {
-  const _ = setup();
-
-  mockedAxios.get.mockResolvedValueOnce({
-    data: { totalItems: 0 }
-  });
-
-  await _.searchFor('react');
-
-  expect(_.queryByText(/not found/)).toBeInTheDocument();
 });
 
 it('should fetch books when submit search and click on load more', async () => {

@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Volume } from '../domain/VolumesDTO';
 
 type State = {
-  status: 'idle' | 'loading' | 'loaded' | 'empty' | 'hasMore';
+  status: 'idle' | 'loading' | 'loaded' | 'empty' | 'hasMore' | 'error';
   books: Volume[];
 };
 
@@ -41,32 +41,28 @@ export function useBookService(): [State, Actions] {
 
     setState(state => ({ ...state, status: 'loading' }));
 
-    axios
-      .get('https://www.googleapis.com/books/v1/volumes', {
-        params
-      })
-      .then(res => {
-        setState(state => {
-          const { totalItems, items = [] } = res.data;
+    axios.get('https://www.googleapis.com/books/v1/volumes', { params }).then(
+      ({ data: { totalItems = 0, items = [] } }) => {
+        if (!totalItems) {
+          setState(state => ({ ...state, books: [], status: 'empty' }));
+        } else {
+          setState(state => {
+            const books = startIndex ? [...state.books, ...items] : items;
+            const hasMore = totalItems > books.length;
+            const status = hasMore ? 'hasMore' : 'loaded';
 
-          if (!totalItems) {
-            return {
-              ...state,
-              books: [],
-              status: 'empty'
-            };
-          }
-
-          const books = startIndex ? [...state.books, ...items] : items;
-          const hasMore = res.data.totalItems > books.length;
-
-          return {
-            ...state,
-            books,
-            status: hasMore ? 'hasMore' : 'loaded'
-          };
-        });
-      });
+            return { ...state, books, status };
+          });
+        }
+      },
+      error => {
+        setState(state => ({
+          ...state,
+          status: 'error',
+          error
+        }));
+      }
+    );
   }, [params]);
 
   return [state, { search, loadMore }];

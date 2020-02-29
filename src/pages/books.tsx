@@ -28,6 +28,13 @@ export function BooksPage({ status, books, search, loadMore }: BookService) {
       <Box py={{ md: 4 }} mx='auto'>
         <BookList books={books} />
         {status === 'loading' && <BookList data-testid='book-loading' />}
+        {status === 'error' && (
+          <Empty
+            image={BookNotFoundSrc}
+            heading='Something went wrong...'
+            description='Please try again'
+          />
+        )}
         {status === 'empty' && (
           <Empty
             image={BookNotFoundSrc}
